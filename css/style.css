@@ -1,0 +1,69 @@
+@import url(reset.css);
+html {
+  height: 100%; }
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #222;
+  color: #fff;
+  height: 100%;
+  font-family: 'Tiempos Text Test'; }
+
+section {
+  margin: auto;
+  display: flex; }
+
+.container {
+  margin: auto;
+  width: 100%;
+  padding-left: 30px;
+  padding-right: 30px; }
+
+.container__definitions {
+  max-width: 700px; }
+
+p {
+  font-family: 'Tiempos Text Test';
+  font-size: 20px; }
+
+a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  text-decoration: none; }
+
+.definitions {
+  height: 90%; }
+  .definitions h1.text__word {
+    font-family: 'Tiempos Text Test';
+    font-size: 45px;
+    font-weight: 500;
+    display: inline; }
+    .definitions h1.text__word span.type {
+      display: inline;
+      font-size: 31px;
+      font-style: italic;
+      opacity: 0.5;
+      padding-left: 10px; }
+  .definitions p.text__definition {
+    font-size: 29px;
+    line-height: 40px;
+    padding-top: 18px; }
+  .definitions p.text__synonyms {
+    padding-top: 35px; }
+    .definitions p.text__synonyms span {
+      opacity: 0.5; }
+
+.footer {
+  height: 10%; }
+  .footer ul li {
+    display: inline;
+    padding-right: 10px; }
+    .footer ul li a {
+      border-bottom: none; }
+  .footer ul.footer--left {
+    float: left; }
+  .footer ul.footer--right {
+    float: right; }
+
+/*# sourceMappingURL=style.css.map */
