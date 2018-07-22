@@ -1,5 +1,26 @@
 @import url(reset.css);
 
+// fonts
+@font-face {
+  font-family: 'atlas-grotesk-med';
+  src: url('../fonts/AtlasGrotesk-Medium-Web.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/AtlasGrotesk-Medium-Web.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/AtlasGrotesk-Medium-Web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/AtlasGrotesk-Medium-Web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/AtlasGrotesk-Medium-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/AtlasGrotesk-Medium-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+  font-family: 'atlas-grotesk-reg';
+  src: url('../fonts/AtlasGrotesk-Regular-Web.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/AtlasGrotesk-Regular-Web.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/AtlasGrotesk-Regular-Web.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/AtlasGrotesk-Regular-Web.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/AtlasGrotesk-Regular-Web.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/AtlasGrotesk-Regular-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
 // variables
 $white: #fff;
 $charcoal: #222;
@@ -15,7 +36,7 @@ body {
 	background: $charcoal;
 	color: $white;
 	height: 100%;
-	font-family: 'Tiempos Text Test';
+	font-family: 'atlas-grotesk-reg';
 }
 
 section {
@@ -31,12 +52,12 @@ section {
 }
 
 .container__definitions {
-	max-width: 700px;
+	max-width: 600px;
 }
 
 // typography styles
 p {
-	font-family: 'Tiempos Text Test';
+	font-family: 'atlas-grotesk-reg';
 	font-size: 20px;
 }
 
@@ -49,15 +70,15 @@ a {
 // component styles
 .definitions {
 	height: 90%;
+	text-align: center;
 	h1.text__word {
-		font-family: 'Tiempos Text Test';
+		font-family: 'atlas-grotesk-med';
 		font-size: 45px;
 		font-weight: 500;
 		display: inline;
 		span.type {
 			display: inline;
 			font-size: 31px;
-			font-style: italic;
 			opacity: 0.5;
 			padding-left: 10px;
 		}
@@ -69,11 +90,10 @@ a {
 			line-height: 40px;
 			padding-top: 18px;
 		}
-		&.text__synonyms {
+		&.text__type {
+			font-size: 29px;
+			opacity: 0.4;
 			padding-top: 35px;
-			span {
-				opacity: 0.5;
-			}
 		}
 	}
 }

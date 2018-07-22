@@ -1,4 +1,16 @@
 @import url(reset.css);
+@font-face {
+  font-family: 'atlas-grotesk-med';
+  src: url("../fonts/AtlasGrotesk-Medium-Web.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/AtlasGrotesk-Medium-Web.eot?#iefix") format("embedded-opentype"), url("../fonts/AtlasGrotesk-Medium-Web.woff2") format("woff2"), url("../fonts/AtlasGrotesk-Medium-Web.woff") format("woff"), url("../fonts/AtlasGrotesk-Medium-Web.ttf") format("truetype"), url("../fonts/AtlasGrotesk-Medium-Web.svg#svgFontName") format("svg");
+  /* Legacy iOS */ }
+@font-face {
+  font-family: 'atlas-grotesk-reg';
+  src: url("../fonts/AtlasGrotesk-Regular-Web.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/AtlasGrotesk-Regular-Web.eot?#iefix") format("embedded-opentype"), url("../fonts/AtlasGrotesk-Regular-Web.woff2") format("woff2"), url("../fonts/AtlasGrotesk-Regular-Web.woff") format("woff"), url("../fonts/AtlasGrotesk-Regular-Web.ttf") format("truetype"), url("../fonts/AtlasGrotesk-Regular-Web.svg#svgFontName") format("svg");
+  /* Legacy iOS */ }
 html {
   height: 100%; }
 
@@ -8,7 +20,7 @@ body {
   background: #222;
   color: #fff;
   height: 100%;
-  font-family: 'Tiempos Text Test'; }
+  font-family: 'atlas-grotesk-reg'; }
 
 section {
   margin: auto;
@@ -21,10 +33,10 @@ section {
   padding-right: 30px; }
 
 .container__definitions {
-  max-width: 700px; }
+  max-width: 600px; }
 
 p {
-  font-family: 'Tiempos Text Test';
+  font-family: 'atlas-grotesk-reg';
   font-size: 20px; }
 
 a {
@@ -33,26 +45,26 @@ a {
   text-decoration: none; }
 
 .definitions {
-  height: 90%; }
+  height: 90%;
+  text-align: center; }
   .definitions h1.text__word {
-    font-family: 'Tiempos Text Test';
+    font-family: 'atlas-grotesk-med';
     font-size: 45px;
     font-weight: 500;
     display: inline; }
     .definitions h1.text__word span.type {
       display: inline;
       font-size: 31px;
-      font-style: italic;
       opacity: 0.5;
       padding-left: 10px; }
   .definitions p.text__definition {
     font-size: 29px;
     line-height: 40px;
     padding-top: 18px; }
-  .definitions p.text__synonyms {
+  .definitions p.text__type {
+    font-size: 29px;
+    opacity: 0.4;
     padding-top: 35px; }
-    .definitions p.text__synonyms span {
-      opacity: 0.5; }
 
 .footer {
   height: 10%; }
