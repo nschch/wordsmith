@@ -28,9 +28,7 @@ section {
 
 .container {
   margin: auto;
-  width: 100%;
-  padding-left: 30px;
-  padding-right: 30px; }
+  width: 100%; }
 
 .container__definitions {
   max-width: 600px; }
@@ -67,15 +65,25 @@ a {
     padding-top: 35px; }
 
 .footer {
-  height: 10%; }
-  .footer ul li {
-    display: inline;
-    padding-right: 10px; }
-    .footer ul li a {
-      border-bottom: none; }
-  .footer ul.footer--left {
-    float: left; }
-  .footer ul.footer--right {
-    float: right; }
+  height: 10%;
+  width: 100%; }
+  .footer ul {
+    font-size: 13px;
+    opacity: 0.5; }
+    .footer ul li {
+      display: inline;
+      padding-right: 15px; }
+    .footer ul.footer--left {
+      bottom: 30px;
+      left: 30px;
+      line-height: 22px;
+      position: absolute;
+      text-align: center;
+      right: 30px; }
+      @media only screen and (min-width: 700px) {
+        .footer ul.footer--left {
+          text-align: left; } }
+    .footer ul.footer--right {
+      float: right; }
 
 /*# sourceMappingURL=style.css.map */

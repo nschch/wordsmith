@@ -47,13 +47,12 @@ section {
 .container {
 	margin: auto;
 	width: 100%;
-	padding-left: 30px;
-	padding-right: 30px;
 }
 
 .container__definitions {
 	max-width: 600px;
 }
+
 
 // typography styles
 p {
@@ -100,16 +99,24 @@ a {
 
 .footer {
 	height: 10%;
+	width: 100%;
 	ul {
+		font-size: 13px;
+		opacity: 0.5;
 		li {
 			display: inline;
-			padding-right: 10px; 
-			a {
-				border-bottom: none;
-			}
+			padding-right: 15px; 
 		}
 		&.footer--left {
-			float: left;
+			bottom: 30px;
+			left: 30px;
+			line-height: 22px;
+			position: absolute;
+			text-align: center;
+			right: 30px;
+			@media only screen and (min-width: 700px) {
+				text-align: left;
+			}
 		}
 		&.footer--right {
 			float: right;
