@@ -69,30 +69,27 @@ a {
 // component styles
 .definitions {
 	height: 90%;
-	text-align: center;
 	h1.text__word {
 		font-family: 'atlas-grotesk-med';
 		font-size: 45px;
 		font-weight: 500;
 		display: inline;
-		span.type {
-			display: inline;
-			font-size: 31px;
-			opacity: 0.5;
-			padding-left: 10px;
-		}
 	}
-
 	p {
 		&.text__definition {
 			font-size: 29px;
 			line-height: 40px;
-			padding-top: 18px;
+			padding-top: 15px;
 		}
 		&.text__type {
-			font-size: 29px;
 			opacity: 0.4;
+			display: inline;
+		}
+		&.text__synonyms {
 			padding-top: 35px;
+			span {
+				opacity: 0.4;
+			}
 		}
 	}
 }

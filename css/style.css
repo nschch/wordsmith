@@ -43,26 +43,23 @@ a {
   text-decoration: none; }
 
 .definitions {
-  height: 90%;
-  text-align: center; }
+  height: 90%; }
   .definitions h1.text__word {
     font-family: 'atlas-grotesk-med';
     font-size: 45px;
     font-weight: 500;
     display: inline; }
-    .definitions h1.text__word span.type {
-      display: inline;
-      font-size: 31px;
-      opacity: 0.5;
-      padding-left: 10px; }
   .definitions p.text__definition {
     font-size: 29px;
     line-height: 40px;
-    padding-top: 18px; }
+    padding-top: 15px; }
   .definitions p.text__type {
-    font-size: 29px;
     opacity: 0.4;
+    display: inline; }
+  .definitions p.text__synonyms {
     padding-top: 35px; }
+    .definitions p.text__synonyms span {
+      opacity: 0.4; }
 
 .footer {
   height: 10%;
