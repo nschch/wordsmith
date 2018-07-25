@@ -11,6 +11,26 @@
   /* IE9 Compat Modes */
   src: url("../fonts/AtlasGrotesk-Regular-Web.eot?#iefix") format("embedded-opentype"), url("../fonts/AtlasGrotesk-Regular-Web.woff2") format("woff2"), url("../fonts/AtlasGrotesk-Regular-Web.woff") format("woff"), url("../fonts/AtlasGrotesk-Regular-Web.ttf") format("truetype"), url("../fonts/AtlasGrotesk-Regular-Web.svg#svgFontName") format("svg");
   /* Legacy iOS */ }
+.slideUpFirst {
+  animation: slideUpFirst 1300ms ease; }
+
+@keyframes slideUpFirst {
+  0% {
+    transform: translateY(10px);
+    opacity: 0; }
+  100% {
+    transform: translateY(0px);
+    opacity: 1; } }
+.slideUpSecond {
+  animation: slideUpSecond 1300ms ease; }
+
+@keyframes slideUpSecond {
+  0% {
+    transform: translateY(10px);
+    opacity: 0; }
+  100% {
+    transform: translateY(0px);
+    opacity: 1; } }
 html {
   height: 100%; }
 
@@ -28,7 +48,9 @@ section {
 
 .container {
   margin: auto;
-  width: 100%; }
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px; }
 
 .container__definitions {
   max-width: 600px; }
@@ -39,7 +61,7 @@ p {
 
 a {
   color: #fff;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #4a4a4a;
   text-decoration: none; }
 
 .definitions {
@@ -47,8 +69,8 @@ a {
   .definitions h1.text__word {
     font-family: 'atlas-grotesk-med';
     font-size: 45px;
-    font-weight: 500;
-    display: inline; }
+    display: inline;
+    padding-top: 15px; }
   .definitions p.text__definition {
     font-size: 29px;
     line-height: 40px;
@@ -57,7 +79,8 @@ a {
     opacity: 0.4;
     display: inline; }
   .definitions p.text__synonyms {
-    padding-top: 35px; }
+    padding-top: 35px;
+    line-height: 31px; }
     .definitions p.text__synonyms span {
       opacity: 0.4; }
 
@@ -82,5 +105,7 @@ a {
           text-align: left; } }
     .footer ul.footer--right {
       float: right; }
+      .footer ul.footer--right img {
+        width: 120px; }
 
 /*# sourceMappingURL=style.css.map */

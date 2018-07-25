@@ -21,9 +21,42 @@
        url('../fonts/AtlasGrotesk-Regular-Web.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
+// animations
+
+.slideUpFirst {
+  animation: slideUpFirst 1300ms ease;
+}
+
+@keyframes slideUpFirst {
+  0% {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+.slideUpSecond {
+  animation: slideUpSecond 1300ms ease;
+}
+
+@keyframes slideUpSecond {
+  0% {
+    transform: translateY(10px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
 // variables
 $white: #fff;
 $charcoal: #222;
+$charcoal-light: #4a4a4a;
 
 // base styles
 html {
@@ -47,6 +80,8 @@ section {
 .container {
 	margin: auto;
 	width: 100%;
+	padding-left: 15px;
+	padding-right: 15px;
 }
 
 .container__definitions {
@@ -62,7 +97,7 @@ p {
 
 a {
 	color: $white;
-	border-bottom: 1px solid $white;
+	border-bottom: 1px solid $charcoal-light;
 	text-decoration: none;
 }
 
@@ -72,8 +107,8 @@ a {
 	h1.text__word {
 		font-family: 'atlas-grotesk-med';
 		font-size: 45px;
-		font-weight: 500;
 		display: inline;
+		padding-top: 15px;
 	}
 	p {
 		&.text__definition {
@@ -87,6 +122,7 @@ a {
 		}
 		&.text__synonyms {
 			padding-top: 35px;
+			line-height: 31px;
 			span {
 				opacity: 0.4;
 			}
@@ -117,6 +153,9 @@ a {
 		}
 		&.footer--right {
 			float: right;
+			img {
+				width: 120px;
+			}
 		}
 	}
 }
