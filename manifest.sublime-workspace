@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"conten",
+				"content-block"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/natalie.schoch/Downloads/untitled.svg",
+		"/Users/natalie.schoch/Dropbox (Personal)/Code/2018/Vocabulary Chrome Exstention/manifest.json",
+		"/Users/natalie.schoch/Dropbox (Personal)/Code/2018/Vocabulary Chrome Exstention/index.html",
+		"/Users/natalie.schoch/Dropbox (Personal)/Code/2018/Vocabulary Chrome Exstention/css/style.sass.css",
+		"/Users/natalie.schoch/dev/gcorp/app/assets/images/corporate/main/icons/new/icon-sm-alert.svg",
+		"/Users/natalie.schoch/Downloads/nelson-cash.svg",
+		"/Users/natalie.schoch/dev/partner_directory/app/assets/images/logos/logo-twitter.svg",
+		"/Users/natalie.schoch/dev/partner_directory/app/assets/images/logos/logo-linkedin.svg",
+		"/Users/natalie.schoch/Dropbox (Personal)/Code/2016/Portfolio v2/style.less",
+		"/Users/natalie.schoch/Downloads/logo.svg",
+		"/Users/natalie.schoch/Dropbox (Personal)/_Design_personal/Personal Brand/code/css/reset.css",
+		"/Users/natalie.schoch/Downloads/TextInputEffects/css/set2.css",
+		"/Users/natalie.schoch/Desktop/Captcha Design Code/Gusto Custom Pages/sample_distil_unable.html",
+		"/Users/natalie.schoch/Desktop/Captcha Design Code/Gusto Custom Pages/sample_distil_catchall.html",
+		"/Users/natalie.schoch/Desktop/Captcha Design Code/Gusto Custom Pages/sample_distil_captcha.html",
+		"/Users/natalie.schoch/Desktop/Captcha Design Code/Gusto Custom Pages/sample_distil_block.html",
+		"/opt/puppetlabs/puppet/lib/ruby/vendor_ruby/hiera/recursive_guard.rb",
+		"/Users/natalie.schoch/Dropbox (Personal)/PORTFOLIO/portfolio-v3-web/css/work.scss",
+		"/Users/natalie.schoch/Dropbox (Personal)/PORTFOLIO/portfolio-v3-web/css/main.scss",
+		"/Users/natalie.schoch/Dropbox (Personal)/PORTFOLIO/portfolio-v3-web/css/buttons.scss",
+		"/Users/natalie.schoch/Downloads/graph.svg",
+		"/Users/natalie.schoch/Dropbox (Personal)/PORTFOLIO/portfolio-v3-web/gusto.php",
+		"/Users/natalie.schoch/Dropbox (Personal)/PORTFOLIO/portfolio-v3-web/index.php",
+		"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/css/skins/resource-center/_components.scss",
+		"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/css/skins/resource-center.scss",
+		"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/css/skins/resource-center.css",
+		"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/css/skins/resource-center/_header.scss",
+		"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/footer.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			".sass-cache/b01e67c54bfcc4e29566e10c4207ec488668a7f8",
+			"/Users/natalie.schoch/dev/wp-framework/wp-content/themes/wp-resource-center/css/skins/.sass-cache/b01e67c54bfcc4e29566e10c4207ec488668a7f8"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			">\n",
+			"000000",
+			"000",
+			"kohana",
+			"distil",
+			"oops",
+			";\n",
+			"pageheading",
+			"padding-bottom: 30px; ",
+			"pageHeading",
+			"entry-title",
+			"h1",
+			"adweek",
+			"zenpayroll",
+			"light",
+			"the x",
+			"creating",
+			"winning",
+			"growth",
+			"coll",
+			"colla",
+			"featured-post-blog-wrapper",
+			"category-box",
+			"subscribe-form",
+			"subscribe",
+			"subsrcibe",
+			"subscribe",
+			"blog-wrapper",
+			"homepage",
+			"search-field",
+			"20px",
+			"readmoretag",
+			"featured-post-blog",
+			"featured-blog-post",
+			"readmoretag",
+			"#EC4847",
+			"category-tag",
+			"readmoretag",
+			"category-tag-link",
+			"category-tag",
+			"category-box",
+			".category-box",
+			"category-box",
+			"color: purple",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true
+}
