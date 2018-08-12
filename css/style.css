@@ -54,7 +54,7 @@ section {
   padding-right: 15px; }
 
 .container__definitions {
-  max-width: 600px; }
+  max-width: 630px; }
 
 p {
   font-family: 'atlas-grotesk-reg';
@@ -62,7 +62,7 @@ p {
 
 a {
   color: #fff;
-  border-bottom: 1px solid #4a4a4a;
+  border-bottom: 1px solid #ffffff42;
   text-decoration: none; }
 
 .definitions {
@@ -77,12 +77,17 @@ a {
     line-height: 40px;
     padding-top: 15px; }
   .definitions p.text__type {
+    display: inline;
+    margin-top: 16px;
     opacity: 0.4;
-    display: inline; }
+    padding-left: 13px;
+    position: absolute; }
   .definitions p.text__synonyms {
     padding-top: 35px;
     line-height: 31px; }
-    .definitions p.text__synonyms span {
+    .definitions p.text__synonyms span.text__synonyms--title {
+      opacity: 0.4; }
+    .definitions p.text__synonyms a {
       opacity: 0.4; }
 
 .footer {
@@ -93,7 +98,22 @@ a {
     opacity: 0.5; }
     .footer ul li {
       display: inline;
-      padding-right: 15px; }
+      padding-right: 15px;
+      position: relative; }
+      .footer ul li span.text__credits span.text--reveal {
+        opacity: 0;
+        left: 20px;
+        position: absolute;
+        -webkit-transition: left 500ms ease, opacity 200ms ease;
+        transition: left 500ms ease, opacity 200ms ease;
+        width: 500px; }
+      .footer ul li span.text__credits:hover {
+        cursor: pointer; }
+        .footer ul li span.text__credits:hover span.text--reveal {
+          opacity: 1;
+          left: 60px;
+          -webkit-transition: left 200ms ease, opacity 500ms ease;
+          transition: left 200ms ease, opacity 500ms ease; }
     .footer ul.footer--left {
       bottom: 30px;
       left: 30px;

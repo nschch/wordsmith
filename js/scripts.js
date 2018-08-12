@@ -1,4 +1,4 @@
-var colors = ['#CCF5AC', '#BAD29F', '#808A9F', '#2C497F', '#3D2B56'];
+var colors = ['#5F0B0D', '#5E2136', '#4F325C', '#214187', '#253764', '#1F2942', '#0F151F', '#132521', '#16321F', '#183F1D'];
 
 var word = words[Math.floor(Math.random()*words.length)];
 var color = colors[Math.floor(Math.random()*colors.length)];

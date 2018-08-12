@@ -86,7 +86,7 @@ section {
 }
 
 .container__definitions {
-	max-width: 600px;
+	max-width: 630px;
 }
 
 
@@ -98,7 +98,7 @@ p {
 
 a {
 	color: $white;
-	border-bottom: 1px solid $charcoal-light;
+	border-bottom: 1px solid #ffffff42;
 	text-decoration: none;
 }
 
@@ -118,13 +118,19 @@ a {
 			padding-top: 15px;
 		}
 		&.text__type {
-			opacity: 0.4;
 			display: inline;
+   		 	margin-top: 16px;
+    		opacity: 0.4;
+			padding-left: 13px;
+			position: absolute;
 		}
 		&.text__synonyms {
 			padding-top: 35px;
 			line-height: 31px;
-			span {
+			span.text__synonyms--title {
+				opacity: 0.4;
+			}
+			a {
 				opacity: 0.4;
 			}
 		}
@@ -140,6 +146,26 @@ a {
 		li {
 			display: inline;
 			padding-right: 15px; 
+			position: relative;
+			span.text__credits {
+				span.text--reveal {
+					opacity: 0;
+			    left: 20px;
+			    position: absolute;
+		    	-webkit-transition: left 500ms ease, opacity 200ms ease;
+					transition: left 500ms ease, opacity 200ms ease;
+					width: 500px;
+				}
+				&:hover {
+					cursor: pointer;
+					span.text--reveal {
+						opacity: 1;
+						left: 60px;
+				  	-webkit-transition: left 200ms ease, opacity 500ms ease;
+						transition: left 200ms ease, opacity 500ms ease;
+					}
+				}
+			}
 		}
 		&.footer--left {
 			bottom: 30px;
