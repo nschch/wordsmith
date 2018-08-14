@@ -4,112 +4,112 @@ var words = [
 	  "word": "abate",
 	  "definition": "to put an end to",
 	  "wordtype": "verb",
-    "synoyms": "decrease, lessen, diminish, reduce, moderate"
+    "synoyms": "decrease, lessen, diminish"
 	},
   {
     "id": 7,
     "word": "abdicate",
     "definition": "to surrender, renounce or relinquish",
     "wordtype": "verb",
-    "synoyms": "disown, reject, renounce, give up, refuse, relinquish"
+    "synoyms": "disown, reject, renounce"
   },
   {
     "id": 11,
     "word": "aberrant",
     "definition": "straying from the right or normal way",
     "wordtype": "verb",
-    "synonyms": "deviant, deviating, divergent, abnormal, atypical"
+    "synonyms": "deviant, deviating, divergent"
   },
   {
     "id": 12,
     "word": "abet",
     "definition": "to assist or encourage by aid, especially in crime",
     "wordtype": "verb",
-    "synonyms": "assist, aid, help, lend a hand to, support, back"
+    "synonyms": "assist, aid, help, lend a hand to"
   },
   {
     "id": 13,
     "word": "abeyance",
     "definition": "temporary inactivity",
     "wordtype": "noun",
-    "synonyms": "in suspension, in a state of suspension, in a state of dormancy"
+    "synonyms": "in suspension"
   },
   {
     "id": 14,
     "word": "abhor",
     "definition": "to loath",
     "wordtype": "verb",
-    "synonyms": "detest, hate, loathe, despise, execrate, regard with disgust"
+    "synonyms": "detest, hate, loathe, despise,"
   },
   {
     "id": 16,
     "word": "abject",
     "definition": "to cast off or down, to abase",
     "wordtype": "verb",
-    "synonyms": "wretched, miserable, hopeless, pathetic, pitiful, pitiable"
+    "synonyms": "wretched, hopeless, pathetic"
   },
   {
     "id": 17,
     "word": "abjure",
     "definition": "solemnly renounce (a belief, cause, or claim)",
     "wordtype": "verb",
-    "synonyms": "renounce, relinquish, reject, forgo, disavow, abandon"
+    "synonyms": "renounce, relinquish"
   },
   {
     "id": 18,
     "word": "abnegate",
     "definition": "renounce or reject (something desired or valuable)",
     "wordtype": "verb",
-    "synonyms": "renounce, reject, refuse, abandon, spurn, abdicate"
+    "synonyms": "renounce, reject"
   },
   {
     "id": 27,
     "word": "abrade",
     "definition": "scrape or wear away by friction or erosion",
     "wordtype": "verb",
-    "synonyms": "wear away, wear down, erode, scrape away, corrode"
+    "synonyms": "erode, scrape away, corrode"
   },
   {
     "id": 30,
     "word": "abrogate",
     "definition": "to abolish by authoritative action",
     "wordtype": "verb",
-    "synonyms": "repeal, revoke, rescind, repudiate, overturn"
+    "synonyms": "repeal, revoke, rescind"
   },
   {
     "id": 33,
     "word": "abscond",
     "definition": "to depart secretly",
     "wordtype": "verb",
-    "synonyms": "run away, escape, bolt, flee, make off"
+    "synonyms": "run away, escape, bolt"
   },
   {
     "id": 47,
     "word": "accede",
     "definition": "(obsolete) to approach, to arrive, to come forward",
     "wordtype": "verb",
-    "synonyms": "agree to, consent to, accept, assent to, acquiesce in"
+    "synonyms": "agree to, consent to, accept"
   },
   {
     "id": 50,
     "word": "accession",
     "definition": "to make a record of (additions to a collection)",
     "wordtype": "verb",
-    "synonyms": "addition, acquisition, succession to, assumption of, inheritance of"
+    "synonyms": "addition, acquisition"
   },
   {
     "id": 54,
     "word": "acclivity",
     "definition": "a slope or inclination of the earth, as the side of a hill",
     "wordtype": "noun",
-    "synonyms": "slope, upgrade, raise, rise, uphill, climb, ascent"
+    "synonyms": "slope, upgrade, raise, rise"
   },
   {
     "id": 63,
     "word": "accost",
     "definition": "to approach and speak to boldly or aggressively",
     "wordtype": "verb",
-    "synonyms": "confront, call to, shout to, hail, address, speak to"
+    "synonyms": "confront, hail, address"
   },
   {
     "id": 66,
@@ -123,84 +123,84 @@ var words = [
     "word": "accretion",
     "definition": "growth by slow buildup",
     "wordtype": "noun",
-    "synonyms": "accumulation, formation, collecting, cumulation, buildup"
+    "synonyms": "accumulation, formation"
   },
   {
     "id": 70,
     "word": "acculturation",
     "definition": "adopting cultural elements of another culture",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "education, assimilation"
   },
   {
     "id": 71,
     "word": "accumulate",
     "definition": "to heap up in a mass, to collect",
     "wordtype": "verb",
-    "synonyms": "upbringing, socialisation, fostering, social, control, socialization, bringing up"
+    "synonyms": "upbringing, socialisation, fostering"
   },
   {
     "id": 72,
     "word": "accurse",
     "definition": "to devote to destruction",
     "wordtype": "verb",
-    "synonyms": "cursed, damned, doomed, condemned, ill-fated"
+    "synonyms": "cursed, damned"
   },
   {
     "id": 76,
     "word": "acerbic",
     "definition": "acid in temper, mood or tone",
     "wordtype": "adjective",
-    "synonyms": "sharp, sarcastic, sardonic, mordant, trenchant, cutting, razor-edged"
+    "synonyms": "sharp, sarcastic, sardonic"
   },
   {
     "id": 84,
     "word": "acme",
     "definition": "the top or highest point, pinnacle, culmination",
     "wordtype": "noun",
-    "synonyms": "peak, pinnacle, zenith, height, high point, crown, crest"
+    "synonyms": "peak, pinnacle, zenith"
   },
   {
     "id": 87,
     "word": "acquiesce",
     "definition": "accept something reluctantly but without protest",
     "wordtype": "verb",
-    "synonyms": "accede, agree, assent, come round, consent, subscribe"
+    "synonyms": "accede, agree, assent,"
   },
   {
     "id": 92,
     "word": "acrid",
     "definition": "sharp and harsh, or bitter and not to the taste, pungent",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "pungent, bitter, sharp"
   },
   {
     "id": 94,
     "word": "acrimony",
     "definition": "bitterness or sharpness of manner, speech, temper",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "bitterness, anger, rancor"
   },
   {
     "id": 100,
     "word": "acuity",
     "definition": "sharpness or acuteness, as of a needle, wit, etc",
     "wordtype": "noun",
-    "synonyms": "acuteness, delicacy, keenness, perceptiveness"
+    "synonyms": "acuteness, delicacy, keenness"
   },
   {
     "id": 101,
     "word": "acumen",
     "definition": "quickness of perception or discernment, penetration of mind",
     "wordtype": "noun",
-    "synonyms": "astuteness, shrewdness, acuity, sharpness, sharp-wittedness"
+    "synonyms": "astuteness, shrewdness, acuity"
   },
   {
     "id": 105,
     "word": "adage",
     "definition": "an old saying, which has obtained credit by long use",
     "wordtype": "noun",
-    "synonyms": "saying, maxim, axiom, proverb, aphorism,"
+    "synonyms": "saying, maxim, axiom"
   },
   {
     "id": 110,
@@ -214,14 +214,14 @@ var words = [
     "word": "admonish",
     "definition": "to warn of a fault, to reprove gently, but seriously",
     "wordtype": "verb",
-    "synonyms": "reprimand, rebuke, scold, reprove, reproach"
+    "synonyms": "reprimand, rebuke, scold"
   },
   {
     "id": 129,
     "word": "adroit",
     "definition": "clever or skillful in using the hands or mind",
     "wordtype": "adjective",
-    "synonyms": "skillful, adept, dexterous, deft, nimble"
+    "synonyms": "skillful, adept, nimble"
   },
   {
     "id": 130,
@@ -235,21 +235,21 @@ var words = [
     "word": "aesthete",
     "definition": "a person who has refined sensitivity towards art or nature",
     "wordtype": "noun",
-    "synonyms": "connoisseur, person of good taste"
+    "synonyms": "connoisseur, good taste"
   },
   {
     "id": 148,
     "word": "affable",
     "definition": "pleasant, easy to approach",
     "wordtype": "adjective",
-    "synonyms": "friendly, amiable, genial, congenial, cordial"
+    "synonyms": "friendly, amiable, genial"
   },
   {
     "id": 175,
     "word": "agog",
     "definition": "very eager or curious to hear or see something",
     "wordtype": "adjective",
-    "synonyms": "eager, excited, impatient, keen, anxious, avid"
+    "synonyms": "eager, excited, impatient"
   },
   {
     "id": 182,
@@ -263,21 +263,21 @@ var words = [
     "word": "ambrosial",
     "definition": "succulently sweet or fragrant",
     "wordtype": "adjective",
-    "synonyms": "aromatic, fragrant, perfumed, redolent, savory"
+    "synonyms": "aromatic, fragrant, savory"
   },
   {
     "id": 246,
     "word": "amity",
     "definition": "the cooperative and supportive relationship between people",
     "wordtype": "noun",
-    "synonyms": "friendship, friendliness, harmony, harmoniousness"
+    "synonyms": "friendship, friendliness, harmony"
   },
   {
     "id": 249,
     "word": "amorous",
     "definition": "inclined to love, having a propensity to love",
     "wordtype": "adjective",
-    "synonyms": "romantic, lustful, erotic, amatory, ardent"
+    "synonyms": "romantic, amatory, ardent"
   },
   {
     "id": 288,
@@ -292,21 +292,21 @@ var words = [
     "word": "antediluvian",
     "definition": "of or belonging to the time before the biblical Flood",
     "wordtype": "adjective",
-    "synonyms": "out of date, outdated, outmoded, old-fashioned"
+    "synonyms": "out of date, outdated, old-fashioned"
   },
   {
     "id": 323,
     "word": "antilogy",
     "definition": "a contradiction in related terms or ideas",
     "wordtype": "noun",
-    "synonyms": "anithesis, contrary, antonym, contradiction"
+    "synonyms": "anithesis, contrary, contradiction"
   },
   {
     "id": 342,
     "word": "apex",
     "definition": "the highest point of something",
     "wordtype": "noun",
-    "synonyms": "tip, peak, summit, pinnacle, top"
+    "synonyms": "tip, peak, summit, pinnacle"
   },
   {
     "id": 343,
@@ -404,7 +404,7 @@ var words = [
     "word": "arrogate",
     "definition": "assume, take or claim (something) without justification",
     "wordtype": "verb",
-    "synonyms": "assume, take, claim, appropriate, seize"
+    "synonyms": "assume, take, claim, appropriate"
   },
   {
     "id": 435,
@@ -502,7 +502,7 @@ var words = [
     "word": "baleful",
     "definition": "threatening harm, menacing",
     "wordtype": "adjective",
-    "synonyms": "menacing, threatening, unfriendly, hostile"
+    "synonyms": "menacing, threatening, unfriendly"
   },
   {
     "id": 566,
@@ -551,7 +551,7 @@ var words = [
     "word": "bellicose",
     "definition": "demonstrating aggression and willingness to fight",
     "wordtype": "adjective",
-    "synonyms": "aggressive, hostile, warlike, warmongering, hawkish"
+    "synonyms": "aggressive, hostile, hawkish"
   },
   {
     "id": 611,
@@ -621,7 +621,7 @@ var words = [
     "word": "blithesome",
     "definition": "happy or spriteful, carefree",
     "wordtype": "adjective",
-    "synonyms": "festive, gay, gleeful, jocose, jocular"
+    "synonyms": "festive, gay, gleeful"
   },
   {
     "id": 754,
@@ -642,14 +642,14 @@ var words = [
     "word": "bumptious",
     "definition": "obtrusively pushy, self-assertive to a pretentious extreme",
     "wordtype": "adjective",
-    "synonyms": "self-important, conceited, arrogant, self-assertive"
+    "synonyms": "self-important, conceited"
   },
   {
     "id": 784,
     "word": "cabal",
     "definition": "a secret political clique or faction",
     "wordtype": "noun",
-    "synonyms": "clique, faction, coterie, cell, sect"
+    "synonyms": "clique, faction, coterie"
   },
   {
     "id": 794,
@@ -684,7 +684,7 @@ var words = [
     "word": "canard",
     "definition": "a false or misleading report, especially if deliberately so",
     "wordtype": "noun",
-    "synonyms": "gossip, slander, libel, defamation, fabrication"
+    "synonyms": "gossip, slander, libel, defamation"
   },
   {
     "id": 821,
@@ -698,7 +698,7 @@ var words = [
     "word": "cantankerous",
     "definition": "ill-tempered, cranky, surly, crabby",
     "wordtype": "adjective",
-    "synonyms": "bad-tempered, captious, choleric, contrary, crabby"
+    "synonyms": "bad-tempered, captious contrary"
   },
   {
     "id": 824,
@@ -726,7 +726,7 @@ var words = [
     "word": "capitulate",
     "definition": "to draw up in chapters, to enumerate",
     "wordtype": "verb",
-    "synonyms": " surrender, give in, yield, concede defeat"
+    "synonyms": " surrender, give in, yield"
   },
   {
     "id": 831,
@@ -747,7 +747,7 @@ var words = [
     "word": "captious",
     "definition": "apt to notice and make much of trivial defaults",
     "wordtype": "adjective",
-    "synonyms": "fickle, inconstant, changeable, variable, mercurial"
+    "synonyms": "fickle, inconstant, mercurial"
   },
 
   {
@@ -825,7 +825,7 @@ var words = [
     "word": "chide",
     "definition": "to scold or rebuke",
     "wordtype": "verb",
-    "synonyms": "scold, chastise, upbraid, berate, reprimand"
+    "synonyms": "scold, chastise, upbraid, berate"
   },
   {
     "id": 928,
@@ -888,7 +888,7 @@ var words = [
     "word": "clemency",
     "definition": "the gentle or kind exercise of power",
     "wordtype": "noun",
-    "synonyms": "mercy, mercifulness, leniency, mildness"
+    "synonyms": "mercy, mercifulness, leniency"
   },
   {
     "id": 955,
@@ -1189,7 +1189,7 @@ var words = [
     "word": "dauntless",
     "definition": "invulnerable to fear or intimidation",
     "wordtype": "adjective",
-    "synonyms": "fearless, determined, resolute, indomitable"
+    "synonyms": "fearless, determined, resolute"
   },
   {
     "id": 1370,
@@ -1253,7 +1253,7 @@ var words = [
     "word": "deleterious",
     "definition": "causing harm or damage",
     "wordtype": "adjective",
-    "synonyms": "harmful, damaging, detrimental, injurious"
+    "synonyms": "harmful, damaging, detrimental"
   },
   {
     "id": 1472,
@@ -1337,14 +1337,14 @@ var words = [
     "word": "desiccate",
     "definition": "lacking interest, passion, or energy",
     "wordtype": "verb",
-    "synonyms": "dried, dry, dehydrated, powdered"
+    "synonyms": "dull, arid, boring"
   },
   {
     "id": 1554,
     "word": "despot",
     "definition": "a ruler with absolute power who exercise it cruelly",
     "wordtype": "noun",
-    "synonyms": "tyrant, oppressor, dictator, absolute ruler"
+    "synonyms": "tyrant, oppressor, dictator"
   },
   {
     "id": 1555,
@@ -1358,7 +1358,7 @@ var words = [
     "word": "desultory",
     "definition": "lacking a plan, purpose, or enthusiasm",
     "wordtype": "adjective",
-    "synonyms": "casual, cursory, superficial,"
+    "synonyms": "casual, cursory, superficial"
   },
   {
     "id": 1597,
@@ -1372,14 +1372,14 @@ var words = [
     "word": "diatribe",
     "definition": "a forceful and bitter verbal attack",
     "wordtype": "noun",
-    "synonyms": "tirade, harangue, onslaught, attack"
+    "synonyms": "tirade, harangue, onslaught"
   },
   {
     "id": 1603,
     "word": "dictum",
     "definition": "an authoritative statement, a dogmatic saying",
     "wordtype": "noun",
-    "synonyms": "pronouncement, proclamation, direction"
+    "synonyms": "pronouncement, proclamation"
   },
   {
     "id": 1604,
@@ -1428,7 +1428,7 @@ var words = [
     "word": "discomfit",
     "definition": "to defeat completely, to rout",
     "wordtype": "verb",
-    "synonyms": "embarrass, abash, disconcert, discompose"
+    "synonyms": "embarrass, abash, disconcert"
   },
   {
     "id": 1669,
@@ -1456,7 +1456,7 @@ var words = [
     "word": "discriminate",
     "definition": "to recognize a distinction, to differentiate",
     "wordtype": "verb",
-    "synonyms": "differentiate, distinguish, draw a distinction"
+    "synonyms": "differentiate, distinguish"
   },
   {
     "id": 1685,
@@ -1468,7 +1468,7 @@ var words = [
   {
     "id": 1707,
     "word": "disinter",
-    "definition": "to dig up (something buries)",
+    "definition": "dig up (something that has been buried, especially a corpse)",
     "wordtype": "verb",
     "synonyms": "exhume, unearth, dig up"
   },
@@ -1561,363 +1561,349 @@ var words = [
     "word": "drivel",
     "definition": "childish, silly or meaningless talk",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "nonsense, twaddle, claptrap"
   },
   {
     "id": 1849,
     "word": "drub",
     "definition": "to hit or beat (someone) repeatedly, thrash",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "bash, bat, batter"
   },
   {
     "id": 1855,
     "word": "dulcet",
-    "definition": "sweet and soothing",
+    "definition": "(especially of sound) sweet and soothing (often used ironically)",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sweet, soothing, mellow"
   },
   {
     "id": 1862,
     "word": "duress",
     "definition": "coercion, compulsion by threat or force",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "threats, violence, constraints"
   },
   {
     "id": 1872,
     "word": "ebullient",
     "definition": "cheerful and full of energy",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "exuberant, buoyant, cheerful"
   },
   {
     "id": 1875,
     "word": "echelon",
     "definition": "a level or rank in an organization",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "level, rank, grade"
   },
   {
     "id": 1876,
-    "word": "eclat",
+    "word": "éclat",
     "definition": "brilliance of success or effort, splendor",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "style, flamboyance, confidence"
   },
   {
     "id": 1888,
     "word": "educe",
     "definition": "to draw out or bring out, elicit or evoke",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "elicit, evoke, inspire"
   },
   {
     "id": 1889,
     "word": "efface",
-    "definition": "to erase (a mark) from the surface",
+    "definition": "make oneself appear insignificant or inconspicuous",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "inconspicuous, withdraw"
   },
   {
     "id": 1896,
     "word": "effete",
-    "definition": "of substances, quantities etc: exhausted, spent, worn-out",
+    "definition": "(of a person) affected, overrefined, and ineffectual",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "affected, pretentious, precious"
   },
   {
     "id": 1901,
     "word": "effigy",
     "definition": "a dummy or crude representation of something that is hated",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "statue, statuette, sculpture"
   },
   {
     "id": 1905,
     "word": "effrontery",
     "definition": "insolent or impertinent behavior",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": " impudence, impertinence, cheek"
   },
   {
     "id": 1907,
     "word": "effulgent",
     "definition": "shining, resplendent, with radiant splendor",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "beaming, bedazzling, bright"
   },
   {
     "id": 1910,
     "word": "effusive",
     "definition": "expressing feelings in an unrestrained or heartfelt manner",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "gushing, gushy, unrestrained"
   },
   {
     "id": 1927,
     "word": "elegy",
     "definition": "a mournful or plaintive poem, a funeral song",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "lament, requiem, threnody"
   },
   {
     "id": 1934,
     "word": "elocution",
     "definition": "the skill of a clear and expressive speech",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "pronunciation, enunciation, articulation"
   },
   {
     "id": 1937,
     "word": "elucidate",
     "definition": "to make clear, to clarify, to shed light upon",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "explain, make clear, illuminate"
   },
   {
     "id": 1947,
     "word": "embellish",
     "definition": "to make something more entertaining by adding extra details",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "decorate, adorn, ornament"
   },
   {
     "id": 1948,
     "word": "embezzle",
     "definition": "to steal or misappropriate money one has been trusted with",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "misappropriate, steal, thieve"
   },
   {
     "id": 1949,
     "word": "emblazon",
     "definition": "to adorn with prominent markings",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "adorn, decorate, ornament"
   },
   {
     "id": 1954,
     "word": "embolism",
     "definition": "an obstruction or occlusion of an artery",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "clot, blockage"
   },
   {
     "id": 2015,
     "word": "enigmatic",
     "definition": "perplexing, mysterious, resembling an enigma",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "mysterious, inscrutable, puzzling"
   },
   {
     "id": 2020,
     "word": "enmity",
     "definition": "a feeling or condition of hostility, hatred, animosity",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "hostility, animosity, antagonism"
   },
   {
     "id": 2022,
     "word": "ennui",
     "definition": "a listlessness or melancholia caused by boredom, depression",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "boredom, tedium, listlessness"
   },
   {
     "id": 2028,
     "word": "ensconce",
     "definition": "to place in a secure environment",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "settle, install, plant"
   },
   {
     "id": 2030,
     "word": "enshroud",
     "definition": "to cover with (or as if with) a shroud",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "envelop, veil, shroud"
   },
   {
     "id": 2043,
     "word": "entreaty",
     "definition": "the act of entreating or beseeching, urgent prayer",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "plea, appeal, request"
   },
   {
     "id": 2048,
     "word": "enunciate",
     "definition": "to make a definite or systematic statement of",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "pronounce, articulate"
   },
   {
     "id": 2055,
     "word": "epicure",
     "definition": "a person who cultivates a refined taste, connoisseur",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "gourmet, gastronome"
   },
   {
     "id": 2056,
     "word": "epicurean",
     "definition": "pursuing pleasure, esp. in reference to food or comfort",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "connoisseur, dilettante"
   },
   {
     "id": 2061,
     "word": "epigram",
     "definition": "any witty, ingenious, or pointed saying tersely expressed",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "witticism, quip, jest"
   },
   {
     "id": 2065,
     "word": "epistle",
     "definition": "a letter, or a literary composition in the form of a letter",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 2066,
-    "word": "epistolary",
-    "definition": "of or relating to letters, or the writing of letters",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "letter, missive, communication"
   },
   {
     "id": 2072,
     "word": "epoch",
     "definition": "a period of history, esp. considered remarkable/noteworthy",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "era, age, period"
   },
   {
     "id": 2073,
     "word": "epode",
     "definition": "a lyric poem in which a short verse follws a long one",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "ballad, lyrics, composition"
   },
   {
     "id": 2076,
     "word": "equanimity",
     "definition": "mental or emotional stability or composure, calmness",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "serenity, calm, steadiness"
   },
   {
     "id": 2079,
     "word": "equine",
     "definition": "of or relating to a horse or horses",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "horse, nag, steed"
   },
   {
     "id": 2080,
     "word": "equipoise",
     "definition": "an equal distribution of weight, even balance, equilibrium",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "balance, counterpoise, equilibration"
   },
   {
     "id": 2081,
     "word": "equitable",
     "definition": "characterized by equity or fairness, fair, reasonable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "fair, just, impartial"
   },
   {
     "id": 2082,
     "word": "equity",
     "definition": "the quality of being fair or impartial, fairness",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fairness, justness"
   },
   {
     "id": 2085,
     "word": "equivocate",
     "definition": "to use unclear expressions, usually in order to mislead",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "prevaricate, be evasive"
   },
   {
     "id": 2090,
     "word": "errant",
     "definition": "straying from the proper course or standard",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "offending, guilty, culpable"
   },
   {
     "id": 2093,
     "word": "ersatz",
     "definition": "made in imitation, artificial",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "artificial, substitute, imitation"
   },
   {
     "id": 2094,
     "word": "erudite",
     "definition": "characterized by great knowledge, learned or scholarly",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "learned, scholarly, educated"
   },
   {
     "id": 2095,
     "word": "erudition",
     "definition": "knowledge acquired by study or research, learning",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "knowledge, scholarship"
   },
   {
     "id": 2097,
     "word": "eschew",
     "definition": "to abstain or keep away from, shun, avoid",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "abstain from, refrain from"
   },
   {
     "id": 2098,
     "word": "esoteric",
     "definition": "understood by or meant for only a select few",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "obscure, arcane"
   },
   {
     "id": 2100,
     "word": "espouse",
     "definition": "to make one's own, adopt or embrace, as a cause",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "adopt, embrace, take up"
   },
   {
     "id": 2101,
     "word": "esprit",
-    "definition": "spirit, enthusiasm",
+    "definition": "the quality of being lively, vivacious, or witty",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "spirit, enthusiasm"
   },
   {
     "id": 2102,
     "word": "espy",
     "definition": "to catch sight or, to perceive with the eyes, to discover",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "catch sight of, glimpse, see"
   },
   {
     "id": 2106,
     "word": "estimable",
     "definition": "worthy of esteem, admirable",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2108,
-    "word": "estuary",
-    "definition": "coastal water body where ocean tides and river water merge",
-    "wordtype": "noun",
+    "wordtype": "admirable, applaudableadjective",
     "synonyms": ""
   },
   {
@@ -1925,112 +1911,98 @@ var words = [
     "word": "ethos",
     "definition": "characteristic spirit of a culture, era, or community",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "spirit, character, atmosphere"
   },
   {
     "id": 2113,
     "word": "eulogize",
     "definition": "to praise or pay homage to, especially in a formal eulogy",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "extol, acclaim, sing the praises of"
   },
   {
     "id": 2116,
     "word": "euphonious",
     "definition": "pleasant-sounding, agreeable to the ear",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "pleasant-sounding, sweet-sounding"
   },
   {
     "id": 2135,
     "word": "evince",
     "definition": "to show or demonstrate clearly, to manifest",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "reveal, show, make plain"
   },
   {
     "id": 2142,
     "word": "exacerbate",
     "definition": "to increase the severity, bitterness, or violence of",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "aggravate, worsen, inflame"
   },
   {
     "id": 2146,
     "word": "exalt",
     "definition": "to raise in rank, honor, power, character, quality",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "extol, praise, acclaim"
   },
   {
     "id": 2164,
     "word": "exculpate",
-    "definition": "to clear from a charge of guilt or fault,vindicate",
+    "definition": "to clear from a charge of guilt or fault",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "atone, expiate, discharge"
   },
   {
     "id": 2167,
     "word": "execrable",
     "definition": "utterly detestable, abominable, abhorrent",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "appalling, atrocious"
   },
   {
     "id": 2168,
     "word": "execration",
     "definition": "a curse dictated by violent feelings of hatred",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 2169,
-    "word": "executor",
-    "definition": "a person who performs some duty, job, etc",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "curse, condemnation"
   },
   {
     "id": 2170,
     "word": "exegesis",
     "definition": "critical explanation or interpretation of a text",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "interpretation, explanation"
   },
   {
     "id": 2179,
     "word": "exhort",
     "definition": "to urge, advise, or caution earnestly, admonish urgently",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "urge, encourage, call on"
   },
   {
     "id": 2180,
     "word": "exhume",
     "definition": "to dig out of the ground, to take out of a place of burial",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "disinter, dig up"
   },
   {
     "id": 2181,
     "word": "exigency",
     "definition": "exigent state or character, urgency",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "need, demand, requirement"
   },
   {
     "id": 2182,
     "word": "exigent",
     "definition": "urgent, needing immediate action",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2185,
-    "word": "exodus",
-    "definition": "a sudden departure of a large number of people",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "acute, burning, compelling"
   },
   {
     "id": 2186,
@@ -2044,453 +2016,425 @@ var words = [
     "word": "exorbitance",
     "definition": "exceeding the bounds of custom, propriety, or reason",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "absolve, clear, acquit"
   },
   {
     "id": 2204,
     "word": "expiate",
     "definition": "to atone or make reparation for",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": " atone for, make amends for"
   },
   {
     "id": 2210,
     "word": "expository",
     "definition": "serving to explain, explicate, or elucidate",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "explanatory, descriptive"
   },
   {
     "id": 2211,
     "word": "expostulate",
     "definition": "to protest or remonstrate",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "remonstrate with, disagree with"
   },
   {
     "id": 2213,
     "word": "expound",
     "definition": "to set forth or state in detail",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "present, put forward"
   },
   {
     "id": 2216,
     "word": "expunge",
     "definition": "to strike or blot out, erase",
-    "wordtype": "",
-    "synonyms": ""
+    "wordtype": "verb",
+    "synonyms": "erase, remove, delete"
   },
   {
     "id": 2217,
     "word": "expurgate",
     "definition": "to edit out incorrect, or otherwise undesirable information",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "censor, cut, edit"
   },
   {
     "id": 2218,
     "word": "extant",
     "definition": "in existence, still existing, not destroyed or lost",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "existence, remaining"
   },
   {
     "id": 2219,
     "word": "extemporaneous",
     "definition": "without preparation or advanced thought, offhand",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "offhand, ad-lib, unrehearsed"
   },
   {
     "id": 2220,
     "word": "extempore",
     "definition": "carried out with no preparation, impromptu",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "impromptu, spontaneous"
   },
   {
     "id": 2228,
     "word": "extirpate",
     "definition": "to remove or destroy totally, do away with, exterminate",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "destroy, eradicate, stamp out"
   },
   {
     "id": 2229,
     "word": "extol",
     "definition": "to praise highly, laud, eulogize",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "acclaim, exalt"
   },
   {
     "id": 2233,
     "word": "extradition",
     "definition": "surrender of an alleged fugitive by one authority to another",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "deportation, repatriation"
   },
   {
     "id": 2234,
     "word": "extrajudicial",
     "definition": "carried out without legal authority",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "unwarranted, illegal"
   },
   {
     "id": 2237,
     "word": "extrapolate",
     "definition": "to infer (an unknown) from something that is known",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "conclude, decide, deduce"
   },
   {
     "id": 2242,
     "word": "extricate",
     "definition": "to free, disengage, loosen, or untangle",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "extract, free, release"
   },
   {
     "id": 2243,
     "word": "extrinsic",
     "definition": "external, separable from the thing itself, inessential",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "external, extraneous, exterior"
   },
   {
     "id": 2249,
     "word": "exult",
     "definition": "to rejoice, be very happy",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "rejoice, be joyful, be happy"
   },
   {
     "id": 2255,
     "word": "facetious",
     "definition": "not meant to be taken seriously or literally",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "flippant, flip, glib,"
   },
   {
     "id": 2256,
     "word": "facile",
     "definition": "easily accomplished or attained",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "simplistic, superficial"
   },
   {
     "id": 2277,
     "word": "farcical",
     "definition": "resembling a farce, ludicrous, absurd",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "ridiculous, preposterous, ludicrous"
   },
   {
     "id": 2278,
     "word": "fastidious",
     "definition": "excessively particular, demanding, or fussy about details",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "scrupulous, punctilious"
   },
   {
     "id": 2282,
     "word": "fatuous",
     "definition": "foolish or inane, especially in an unconscious manner, silly",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "silly, foolish, stupid"
   },
   {
     "id": 2288,
     "word": "fealty",
-    "definition": "fidelity, faithfulness",
+    "definition": "adherence to something to which one is bound by a pledge or duty",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fidelity, allegiance"
   },
   {
     "id": 2290,
     "word": "febrile",
     "definition": "feverish, or having a high temperature",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "feverish, hot, burning"
   },
   {
     "id": 2291,
     "word": "feckless",
-    "definition": "ineffective, incompetent, futile",
+    "definition": "lacking initiative or strength of character; irresponsible",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "useless, worthless, incompetent"
   },
   {
     "id": 2292,
     "word": "fecund",
     "definition": "highly fertile, able to produce offspring",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "fertile, fruitful, productive"
   },
   {
     "id": 2295,
     "word": "feint",
     "definition": "a movement made in order to deceive an adversary",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "bluff, blind, ruse"
   },
   {
     "id": 2298,
     "word": "felicity",
     "definition": "happiness, especially to a high degree",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "happiness, joy, joyfulness"
   },
   {
     "id": 2310,
     "word": "fervent",
     "definition": "having or showing great warmth or intensity of spirit",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "impassioned, passionate"
   },
   {
     "id": 2311,
     "word": "fervid",
     "definition": "heated or vehement in spirit, enthusiasm, etc",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "fervent, ardent, passionate"
   },
   {
     "id": 2312,
     "word": "fervor",
     "definition": "an intense, heated emotion, passion, ardor",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "passion, ardor, intensity"
   },
   {
     "id": 2315,
-    "word": "fete",
+    "word": "fête",
     "definition": "to celebrate (a person)",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "gala, bazaar, fair"
   },
   {
     "id": 2316,
     "word": "fetid",
     "definition": "having an offensive odor, stinking",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "stinking, smelly, foul-smelling"
   },
   {
     "id": 2318,
     "word": "fetter",
     "definition": "to shackle or bind up with fetters",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "shackles, manacles, handcuffs"
   },
   {
     "id": 2323,
     "word": "fiat",
     "definition": "an authoritative command or order, an effectual decree",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "decree, edict, order"
   },
   {
     "id": 2328,
     "word": "fiducial",
     "definition": "accepted as a fixed basis of reference",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "trustworthy, binding"
   },
   {
     "id": 2334,
     "word": "filial",
     "definition": "of, pertaining to, or befitting a son or daughter",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2335,
-    "word": "filibuster",
-    "definition": "to force a decision",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "dutiful, devoted, compliant"
   },
   {
     "id": 2358,
     "word": "fledgling",
-    "definition": "untried or inexperienced",
+    "definition": "a person or organization that is immature, inexperienced, or underdeveloped",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "emerging, nascent, infant"
   },
   {
     "id": 2369,
     "word": "florid",
     "definition": "having a rosy or pale red colour, ruddy",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "ruddy, red, red-faced"
   },
   {
     "id": 2374,
     "word": "flout",
     "definition": "to treat with disdain, scorn, or contempt, scoff at, mock",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "defy, refuse to obey, disobey"
   },
   {
     "id": 2384,
     "word": "fodder",
-    "definition": "to feed animals (with fodder)",
+    "definition": "inferior or readily available material used to supply a heavy demand",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "gossip, talk"
   },
   {
     "id": 2386,
     "word": "foible",
     "definition": "a minor weakness or failing of character, slight flaw",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": " weakness, failing, shortcoming"
   },
   {
     "id": 2388,
     "word": "foist",
     "definition": "to introduce or insert surreptitiously or without warrant",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "impose on, force on"
   },
   {
     "id": 2392,
     "word": "foment",
     "definition": "to instigate or foster (discord, rebellion, etc )",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "instigate, incite, provoke"
   },
   {
     "id": 2397,
     "word": "foppish",
-    "definition": "like a fop, a man overly concerned with his appearance",
+    "definition": "(of a man) concerned with his clothes and appearance in an affected and excessive way",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "dapper, dressy"
   },
   {
     "id": 2400,
     "word": "forbear",
     "definition": "to keep away from, to avoid, to abstain from, to give up",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "refrain from, abstain from"
   },
   {
     "id": 2433,
     "word": "forfend",
-    "definition": "to prohibit, to forbid, to avert",
+    "definition": "to prohibit, to forbid, to avert something evil",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "avert, block"
   },
   {
     "id": 2452,
     "word": "fracas",
     "definition": "a noisy, disorderly disturbance or fight",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "disturbance, brawl"
   },
   {
     "id": 2466,
     "word": "frenetic",
-    "definition": "frantic, frenzied",
+    "definition": "fast and energetic in a rather wild and uncontrolled way",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2471,
-    "word": "frieze",
-    "definition": "a decorative band beneath the cornice of an interior wall",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "wild, frenzied, hectic"
   },
   {
     "id": 2475,
     "word": "frisson",
     "definition": "a sudden surge of excitement, shudder of emotion, thrill",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "chill, quiver, shiver"
   },
   {
     "id": 2483,
     "word": "froward",
     "definition": "willfully contrary, not easily managed",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bad, contrary, errant"
   },
   {
     "id": 2487,
     "word": "fugacious",
-    "definition": "fleeting, fading quickly, transient",
+    "definition": "tending to disappear; fleeting",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2488,
-    "word": "fulcrum",
-    "definition": "the support about which a lever pivots",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "transitory, transient, fleeting"
   },
   {
     "id": 2489,
     "word": "fulminate",
     "definition": "to explode with a loud noise, detonate",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "protest, rail against"
   },
   {
     "id": 2490,
     "word": "fulsome",
     "definition": "offensive to good taste, especially as being excessive",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "excessive, extravagant, overdone"
   },
   {
     "id": 2491,
     "word": "fumigate",
     "definition": "to disinfect, purify, rid of vermin with the chemical fumes",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "disinfect, purify, sterilize"
   },
   {
     "id": 2494,
     "word": "fungible",
     "definition": "being of such nature or kind as to be freely exchangeable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "exchangeable, switchable"
   },
   {
     "id": 2499,
     "word": "furlough",
     "definition": "a usually temporary layoff from work",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "dismiss, lay off"
   },
   {
     "id": 2510,
     "word": "gaffe",
     "definition": "a foolish and embarrassing error, esp one made in public",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "blunder, mistake, error"
   },
   {
     "id": 2513,
     "word": "gainsay",
     "definition": "to deny, dispute, or contradict",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 2518,
-    "word": "galvanic",
-    "definition": "of or pertaining to galvanism, electric",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "deny, dispute, disagree with"
   },
   {
     "id": 2521,
     "word": "gambit",
-    "definition": "an opening in chess, in which a minor piece is sacrificed",
+    "definition": "a device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.",
     "wordtype": "noun",
     "synonyms": ""
   },
@@ -2499,273 +2443,231 @@ var words = [
     "word": "gambol",
     "definition": "to skip about, as in dancing or playing, frolic",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "scheme, plan, tactic"
   },
   {
     "id": 2526,
     "word": "garble",
     "definition": "to confuse unintentionally or ignorantly, jumble",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "muddle, jumble, confuse"
   },
   {
     "id": 2528,
     "word": "garish",
     "definition": "overly ostentatious, so colourful as to be in bad taste",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2529,
-    "word": "garner",
-    "definition": "to reap grain, gather it up, and store it in a granary",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "gaudy, lurid, loud"
   },
   {
     "id": 2531,
     "word": "garrison",
     "definition": "to assign troops to a military post",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 2532,
-    "word": "garrote",
-    "definition": "to execute by strangulation",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "troops, militia, soldiers"
   },
   {
     "id": 2533,
     "word": "garrulous",
-    "definition": "excessively talkative, rambling",
+    "definition": "excessively talkative, especially on trivial matters",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "talkative, loquacious, voluble"
   },
   {
     "id": 2538,
     "word": "gauche",
     "definition": "awkward or lacking in social graces, bumbling",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "awkward, gawky, inelegant"
   },
   {
     "id": 2558,
     "word": "germane",
     "definition": "related to the topic being discussed or considered",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "relevant, pertinent, applicable"
   },
   {
     "id": 2560,
     "word": "germinate",
-    "definition": "to begin to grow or develop",
+    "definition": "come into existence and develop",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": " develop, take root, grow"
   },
   {
     "id": 2561,
     "word": "gestation",
-    "definition": "the period of time an infant develops inside the mother",
+    "definition": "the development of something over a period of time",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "development, evolution"
   },
   {
     "id": 2563,
     "word": "gesticulate",
     "definition": "to make animated gestures while speaking",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "gesture, signal, motion"
   },
   {
     "id": 2566,
     "word": "ghoulish",
-    "definition": "of or pertaining to ghouls",
+    "definition": "resembling or characteristic of a ghoul",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "macabre, grisly, gruesome"
   },
   {
     "id": 2568,
     "word": "gibe",
     "definition": "to utter mocking or scoffing words",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "jeer, taunt, mock"
   },
   {
     "id": 2571,
     "word": "gingerly",
     "definition": "with great care or caution",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "cautiously, carefully, warily"
   },
   {
     "id": 2573,
     "word": "gist",
     "definition": "the most essential part, the main idea or substance",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "essence, substance"
   },
   {
     "id": 2576,
     "word": "gladden",
     "definition": "to cause (something) to become glad",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 2577,
-    "word": "glazier",
-    "definition": "a person who fits windows or the like with glass",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "delight, please, make happy"
   },
   {
     "id": 2578,
     "word": "glean",
     "definition": "to gather slowly and laboriously, bit by bit",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "obtain, get, take"
   },
   {
     "id": 2579,
     "word": "glib",
     "definition": "readily fluent, often thoughtlessly or insincerely so",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "slick, pat, fast-talking"
   },
   {
     "id": 2586,
     "word": "glut",
     "definition": "to fill to capacity, to satisfy all requirement or demand",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "overload, cram"
   },
   {
     "id": 2593,
     "word": "goad",
     "definition": "to prick or drive with, or as if with, a goad, prod",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "provoke, spur, prod"
   },
   {
     "id": 2596,
     "word": "gossamer",
     "definition": "a fine, filmy cobweb seen on grass or floating in the air",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "gauzy, delicate, fine"
   },
   {
     "id": 2618,
     "word": "gratis",
-    "definition": "free, without charge",
+    "definition": "given or done for nothing; free",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "free, for nothing"
   },
   {
     "id": 2621,
     "word": "gregarious",
     "definition": "fond of the company of others, sociable",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2630,
-    "word": "grotesque",
-    "definition": "distorted and unnatural in shape or size, abnormal, hideous",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sociable, company-loving"
   },
   {
     "id": 2631,
     "word": "grotto",
-    "definition": "a cave or cavern",
+    "definition": "a small picturesque cave, especially an artificial one in a park or garden",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "cavern, hollow"
   },
   {
     "id": 2636,
     "word": "guffaw",
-    "definition": "to laugh boisterously",
+    "definition": "laugh in a loud or boisterous way",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "bellow, cackle, roaor"
   },
   {
     "id": 2637,
     "word": "guile",
     "definition": "insidious cunning in attaining a goal, artful deception",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "cunning, craftiness, craft"
   },
   {
     "id": 2638,
     "word": "guileless",
     "definition": "sincere, honest, straightforward, frank",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 2639,
-    "word": "guinea",
-    "definition": "a coastal region in w africa",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "artless, ingenuous, naive"
   },
   {
     "id": 2643,
     "word": "gumption",
     "definition": "energy of mind and body, enthusiasm",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "initiative, resourcefulness"
   },
   {
     "id": 2644,
     "word": "gustatory",
     "definition": "of, or relating to, the sense of taste",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "audiovisual, auditory"
   },
   {
     "id": 2649,
     "word": "gyrate",
     "definition": "to revolve round a central point, to revolve",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 2650,
-    "word": "gyroscope",
-    "definition": "apparatus of a wheel which spins inside of a frame",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "rotate, wheel, revolve"
   },
   {
     "id": 2654,
     "word": "habitude",
     "definition": "the essential character of one's being or existence",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "affection, affinity, aptitude"
   },
   {
     "id": 2656,
     "word": "hackney",
     "definition": "to make uninteresting or trite by frequent use",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "banal, cliché, clichéd"
   },
   {
     "id": 2657,
     "word": "hackneyed",
     "definition": "made commonplace or trite, stale",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "overused, overdone, overworked"
   },
   {
     "id": 2660,
     "word": "halcyon",
-    "definition": "calm, peaceful, tranquil",
+    "definition": "denoting a period of time in the past that was idyllically happy and peaceful",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "happy, golden, idyllic"
   },
   {
     "id": 2661,
@@ -2779,63 +2681,63 @@ var words = [
     "word": "hapless",
     "definition": "unlucky, luckless, unfortunate",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "healthy, fit, well"
   },
   {
     "id": 2669,
     "word": "harangue",
     "definition": "to give a forceful and lengthy lecture or criticism",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "tirade, diatribe, lecture"
   },
   {
     "id": 2671,
     "word": "harbinger",
     "definition": "a person who makes known the approach of another, herald",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "herald, sign, indication"
   },
   {
     "id": 2680,
     "word": "hauteur",
     "definition": "haughtiness or arrogance, loftiness",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "arrogance, superciliousness"
   },
   {
     "id": 2682,
     "word": "hawthorn",
     "definition": "any of various small trees having small fruits and thorns",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "tree, shrub"
   },
   {
     "id": 2685,
     "word": "heartrending",
     "definition": "that causes great grief, anguish or distress",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "distressing, upsetting, disturbing"
   },
   {
     "id": 2688,
     "word": "hedonism",
     "definition": "the doctrine that pleasure or happiness is the highest good",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "self-indulgence, pleasure-seeking"
   },
   {
     "id": 2689,
     "word": "heed",
     "definition": "to give careful attention to",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "attention, notice, note"
   },
   {
     "id": 2690,
     "word": "hegemony",
     "definition": "leadership exercised by one nation over others",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "leadership, dominance, dominion"
   },
   {
     "id": 2710,
@@ -2849,336 +2751,315 @@ var words = [
     "word": "heteromorphic",
     "definition": "having different forms in different stages of the life cycle",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "airtight, tight, sealed"
   },
   {
     "id": 2721,
     "word": "hew",
     "definition": "to strike forcibly with a cutting instrument, chop",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "chop, hack, cut, lop"
   },
   {
     "id": 2738,
     "word": "histrionic",
     "definition": "of, or relating to actors or acting",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "melodramatic, theatrical, dramatic"
   },
   {
     "id": 2741,
     "word": "hoary",
     "definition": "white or gray with age",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "gray, white, snowy"
   },
   {
     "id": 2744,
     "word": "homage",
     "definition": "in feudalism, the oath of a vassal to honor a lord's rights",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "respect, honor, reverence"
   },
   {
     "id": 2769,
     "word": "humus",
     "definition": "the dark organic material in soils",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 2792,
-    "word": "hypodermic",
-    "definition": "pertaining to parts under the skin",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "soil, dirt, compost"
   },
   {
     "id": 2812,
     "word": "ignoble",
-    "definition": "not noble, plebeian, common",
+    "definition": "not honorable in character or purpose",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "dishonorable, unworthy, base"
   },
   {
     "id": 2813,
     "word": "ignominious",
     "definition": "discreditable, humiliating",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "humiliating, undignified"
   },
   {
     "id": 2814,
     "word": "ignominy",
     "definition": "great dishonor, shame, or humiliation",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "shame, humiliation"
   },
   {
     "id": 2830,
     "word": "imbibe",
     "definition": "to drink (used frequently of alcoholic beverages)",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "consume, gulp, drink"
   },
   {
     "id": 2831,
     "word": "imbroglio",
     "definition": "a misunderstanding, disagreement, etc",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "complication, problem, difficulty"
   },
   {
     "id": 2832,
     "word": "imbrue",
     "definition": "to stain (in, with, blood, slaughter, etc )",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "saturate, drench"
   },
   {
     "id": 2853,
     "word": "immure",
     "definition": "to cloister, confine, imprison, to lock up behind walls",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "confine, intern, shut up"
   },
   {
     "id": 2860,
     "word": "impasse",
     "definition": "a situation from which there is no escape, deadlock",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "deadlock, dead end, stalemate"
   },
   {
     "id": 2866,
     "word": "impecunious",
     "definition": "having little or no money, poor",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "penniless, poor, impoverished"
   },
   {
     "id": 2882,
     "word": "imperturbable",
     "definition": "incapable of being upset or agitated, not easily excited",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "self-possessed, composed"
   },
   {
     "id": 2883,
     "word": "impervious",
     "definition": "not permitting penetration or passage, impenetrable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "impermeable, impenetrable, impregnable,"
   },
   {
     "id": 2888,
     "word": "impinge",
     "definition": "to make an impression, have an effect or impact",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "affect, have an effect on, touch"
   },
   {
     "id": 2897,
     "word": "impolitic",
     "definition": "not in accordance with good policy, unwise, inexpedient",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "imprudent, unwise, injudicious"
   },
   {
     "id": 2905,
     "word": "imprecation",
     "definition": "the act of imprecating, or invoking evil upon someone",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "ban, curse, hex"
   },
   {
     "id": 2909,
     "word": "improvident",
     "definition": "failing to provide for the future, reckless",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "spendthrift, thriftless, wasteful"
   },
   {
     "id": 2911,
     "word": "imprudent",
     "definition": "not prudent, wanting in prudence or discretion, indiscreet",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "unwise, injudicious, incautious"
   },
   {
     "id": 2912,
     "word": "impudent",
     "definition": "lacking discretion, incautious, rash",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "impertinent, insolent, cheeky"
   },
   {
     "id": 2913,
     "word": "impugn",
-    "definition": "to challenge as false,cast doubt upon",
+    "definition": "to challenge as false, cast doubt upon",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 2914,
-    "word": "impugned",
-    "definition": "dispute the validit or honesty of a statement or motive",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "question, dispute"
   },
   {
     "id": 2915,
     "word": "impuissance",
     "definition": "lacking strength, feeble, weak",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "weakness, impotency"
   },
   {
     "id": 2917,
     "word": "impunity",
     "definition": "exemption from punishment",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "immunity, indemnity, exemption"
   },
   {
     "id": 2919,
     "word": "impute",
     "definition": "to reckon as pertaining or attributable, to attribute",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "attribute to, ascribe to, assign to"
   },
   {
     "id": 2936,
     "word": "inauspicious",
-    "definition": "not auspicious, ill-omened, unfortunate, unlucky",
+    "definition": "not conducive to success; unpromising",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "unpromising, unpropitious, unfavorable"
   },
   {
     "id": 2946,
     "word": "incense",
-    "definition": "to anger or infuriate",
+    "definition": "make (someone) very angry",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "gall, anger, madden"
   },
   {
     "id": 2952,
     "word": "inchoate",
     "definition": "not yet completed or fully developed",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "rudimentary, undeveloped, unformed"
   },
   {
     "id": 2958,
     "word": "incipient",
-    "definition": "a beginning, or first stage",
+    "definition": "in an initial stage; beginning to happen or develo",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "developing, growing, emerging"
   },
   {
     "id": 2959,
     "word": "incisal",
     "definition": "relating to the cutting edge of the incisor and cusped teeth",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "relating to, being"
   },
   {
     "id": 2978,
     "word": "incongruous",
-    "definition": "out of keeping or place, inappropriate, unbecoming",
+    "definition": "not in harmony or keeping with the surroundings or other aspects of something",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "out of place, inappropriate, unsuitable"
   },
   {
     "id": 2986,
     "word": "incorrigible",
     "definition": "not corrigible, bad beyond correction or reform",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "inveterate, habitual, confirmed"
   },
   {
     "id": 2988,
     "word": "incredulous",
-    "definition": "skeptical, disbelieving, or unable to believe",
+    "definition": "(of a person or their manner) unwilling or unable to believe something",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "disbelieving, skeptical, unbelieving"
   },
   {
     "id": 2990,
     "word": "incubus",
     "definition": "an evil spirit supposed to oppress people while asleep",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "nightmare, distressing"
   },
   {
     "id": 2991,
     "word": "inculcate",
     "definition": "to implant by repeated statement, teach persistently",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "instill in, implant in, fix in"
   },
   {
     "id": 2993,
     "word": "incursion",
     "definition": "a hostile entrance into or invasion of a place, a raid",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "attack on, assault on, raid on"
   },
   {
     "id": 2994,
     "word": "indefatigable",
     "definition": "extremely persistent and untiring",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "tireless, untiring, unflagging"
   },
   {
     "id": 2999,
     "word": "indemnity",
     "definition": "obligation upon an individual to incur the losses of another",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "insurance, assurance, protection"
   },
   {
     "id": 3020,
     "word": "indolence",
     "definition": "habitual laziness or sloth",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3030,
-    "word": "inedible",
-    "definition": "unfit to be eaten",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "laziness, idleness, slothfulness"
   },
   {
     "id": 3031,
     "word": "ineffable",
     "definition": "incapable of being expressed or described in words",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "indescribable, inexpressible"
   },
   {
     "id": 3032,
     "word": "inefficacious",
     "definition": "not able to produce the desired effect, ineffective",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "counterproductive, feckless"
   },
   {
     "id": 3035,
     "word": "ineluctable",
     "definition": "incapable of being evaded, inescapable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "certain, ineludible, inescapable"
   },
   {
     "id": 3043,
     "word": "inexorable",
     "definition": "unyielding, unalterable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "relentless, unstoppable, inescapable"
   },
   {
     "id": 3044,
@@ -3192,343 +3073,259 @@ var words = [
     "word": "infinitesimal",
     "definition": "incalculably, exceedingly, or immeasurably minute",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "disadvantageous, inadvisable"
   },
   {
     "id": 3064,
     "word": "infirmity",
     "definition": "feebleness, frailty or ailment, especially due to old age",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "illness, malady, ailment"
   },
   {
     "id": 3077,
     "word": "ingenue",
     "definition": "an innocent, naïve, wholesome girl or young woman",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3080,
-    "word": "inglorious",
-    "definition": "ignominious, disgraceful, not famous, obscure",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3082,
-    "word": "ingrate",
-    "definition": "ungrateful",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "juvenile, innocent"
   },
   {
     "id": 3083,
     "word": "ingratiate",
     "definition": "to establish (oneself) in the favor or good graces of others",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3089,
-    "word": "inhume",
-    "definition": "to bury in a grave",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "cultivate, win over"
   },
   {
     "id": 3090,
     "word": "inimical",
     "definition": "adverse in tendency or effect, unfavorable, harmful",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "harmful, injurious, detrimental"
   },
   {
     "id": 3093,
     "word": "iniquity",
     "definition": "deviation from what is right, wickedness, gross injustice",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3101,
-    "word": "innate",
-    "definition": "existing in one from birth, inborn, native",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3102,
-    "word": "innocuous",
-    "definition": "not harmful or injurious, harmless",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3106,
-    "word": "inoculate",
-    "definition": "to introduce an antigenic substance or vaccine into the body",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "wickedness, sinfulness"
   },
   {
     "id": 3115,
     "word": "inscrutable",
     "definition": "difficult or impossible to comprehend, fathom, or interpret",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "enigmatic, mysterious, unreadable"
   },
   {
     "id": 3120,
     "word": "insidious",
-    "definition": "intended to entrap or beguile",
+    "definition": "proceeding in a gradual, subtle way, but with harmful effects",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "stealthy, subtle, surreptitious"
   },
   {
     "id": 3123,
     "word": "insipid",
     "definition": "without distinctive, interesting, or stimulating qualities",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3126,
-    "word": "insolent",
-    "definition": "insulting in manner or words",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bland, weak, uninspiring"
   },
   {
     "id": 3128,
     "word": "insouciant",
     "definition": "free from concern, worry, or anxiety, carefree, nonchalant",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "nonchalant, untroubled, unworried"
   },
   {
     "id": 3141,
     "word": "insuperable",
     "definition": "impossible to achieve or overcome or be negotiated",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "unsurmountable"
   },
   {
     "id": 3150,
     "word": "intemperance",
     "definition": "lack of moderation or temperance, excess",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "alcoholism, drunkenness"
   },
   {
     "id": 3157,
     "word": "intercession",
     "definition": "an act or instance of interceding",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3168,
-    "word": "intermit",
-    "definition": "to interrupt, to stop or cease temporarily, to suspend",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "mediation, intermediation"
   },
   {
     "id": 3169,
     "word": "internecine",
     "definition": "of or pertaining to conflict or struggle within a group",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "conflict within a group, civil"
   },
   {
     "id": 3176,
     "word": "interstice",
     "definition": "a small opening or space between objects",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3179,
-    "word": "intestacy",
-    "definition": "the state of dying without having made a valid will",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "breach, break, discontinuity"
   },
   {
     "id": 3191,
     "word": "intransigent",
     "definition": "unwilling to compromise or moderate a position, stubborn",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "uncompromising, inflexible"
   },
   {
     "id": 3207,
     "word": "inure",
     "definition": "to come into use, take or have effect",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "harden, toughen, season"
   },
   {
     "id": 3208,
     "word": "inured",
     "definition": "to accustom to hardship, difficulty, pain, etc",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "harden, toughen, season"
   },
   {
     "id": 3214,
     "word": "invective",
     "definition": "vehement or violent denunciation, censure, or reproach",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "abuse, insults, expletives"
   },
   {
     "id": 3215,
     "word": "inveigh",
     "definition": "to protest strongly or attack vehemently with words",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "fulminate against, declaim against"
   },
   {
     "id": 3216,
     "word": "inveigle",
     "definition": "to convert, convince or win over with flattery or wiles",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "entice, tempt, lure"
   },
   {
     "id": 3224,
     "word": "invidious",
     "definition": "calculated to create ill will or resentment or give offense",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "unpleasant, awkward"
   },
   {
     "id": 3228,
     "word": "invocation",
     "definition": "the act of calling for the presence of some superior being",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3234,
-    "word": "inwardly",
-    "definition": "in or on, or with reference to, the inside or inner part",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3235,
-    "word": "iota",
-    "definition": "the ninth, and smallest, letter of the greek alphabet",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "service, petition"
   },
   {
     "id": 3236,
     "word": "irascible",
     "definition": "easily provoked to anger, very irritable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "irritable, quick-tempered, short-tempered"
   },
   {
     "id": 3238,
     "word": "ire",
     "definition": "to anger, to fret, to irritate",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "anger, rage, fury, wrath"
   },
   {
     "id": 3244,
     "word": "irradiate",
     "definition": "to throw rays of light upon, to illuminate, to brighten",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "radiate, charge"
   },
   {
     "id": 3249,
-    "word": "irrefrangible",
+    "word": "irrefragable",
     "definition": "not to broken or transgressed, inviolable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "accomplished, certain, inarguable"
   },
   {
     "id": 3255,
     "word": "irreproachable",
     "definition": "free from blame, not open to reproach or criticism",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "impeccable, faultless"
   },
   {
     "id": 3259,
     "word": "irreverent",
     "definition": "lacking proper respect or seriousness, sarcastic",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "disrespectful, disdainful, scornful"
   },
   {
     "id": 3271,
     "word": "isochronous",
     "definition": "happening at regular intervals",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "equal, alternate"
   },
   {
     "id": 3278,
     "word": "jaundice",
     "definition": "to color by prejudice or envy, to prejudice",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "bitter, resentful, cynical"
   },
   {
     "id": 3279,
     "word": "jaunt",
-    "definition": "to ramble here and there, to stroll, to make an excursion",
+    "definition": "a short excursion or journey for pleasure",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "trip, pleasure trip, outing"
   },
   {
     "id": 3281,
     "word": "jejune",
-    "definition": "without interest or significance, dull",
+    "definition": "displaying or suggesting a lack of maturity",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "immature, diverting"
   },
   {
     "id": 3283,
     "word": "jeremiad",
     "definition": "a prolonged lamentation or mournful complaint",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "diatribe, rant, tirade"
   },
   {
     "id": 3289,
     "word": "jocund",
-    "definition": "cheerful, merry, gay, blithe, glad",
+    "definition": "marked by or suggestive of high spirits and lively mirthfulness",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "festive, gay, jolly"
   },
   {
     "id": 3298,
     "word": "judicial",
     "definition": "of or relating to a court of law",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "legal, official"
   },
   {
     "id": 3299,
     "word": "judicious",
     "definition": "having, or characterized by, good judgment or sound thinking",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3300,
-    "word": "juggernaut",
-    "definition": "any large, overpowering, destructive force or object",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "wise, sensible, prudent"
   },
   {
     "id": 3308,
@@ -4380,9 +4177,9 @@ var words = [
   {
     "id": 3955,
     "word": "occlude",
-    "definition": "to close, shut, or stop up (a passage, opening, etc )",
+    "definition": "to close, shut, or stop up (a passage, opening)",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "obstruct, close, stop"
   },
   {
     "id": 3956,
@@ -6361,9 +6158,9 @@ var words = [
   {
     "id": 5226,
     "word": "sonata",
-    "definition": "musical piece for 1 or more instruments in 3-4 movements",
+    "definition": "a composition for an instrumental soloist, often with a piano accompaniment",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "classical, movement"
   },
   {
     "id": 5227,
@@ -7873,9 +7670,9 @@ var words = [
   {
     "id": 5748,
     "word": "untenable",
-    "definition": "incapable of being defended, as an argument, thesis, etc",
+    "definition": "(especially of a position or view) not able to be maintained or defended against attack or objection",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "indefensible, insupportable, unsustainable"
   },
   {
     "id": 5750,

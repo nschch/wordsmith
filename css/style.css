@@ -88,7 +88,8 @@ a {
     .definitions p.text__synonyms span.text__synonyms--title {
       opacity: 0.4; }
     .definitions p.text__synonyms a {
-      opacity: 0.4; }
+      opacity: 0.4;
+      margin-left: 10px; }
 
 .footer {
   height: 10%;
@@ -106,7 +107,7 @@ a {
         position: absolute;
         -webkit-transition: left 500ms ease, opacity 200ms ease;
         transition: left 500ms ease, opacity 200ms ease;
-        width: 500px; }
+        width: 600px; }
       .footer ul li span.text__credits:hover {
         cursor: pointer; }
         .footer ul li span.text__credits:hover span.text--reveal {

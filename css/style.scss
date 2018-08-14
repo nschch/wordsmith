@@ -132,6 +132,7 @@ a {
 			}
 			a {
 				opacity: 0.4;
+				margin-left: 10px;
 			}
 		}
 	}
@@ -154,7 +155,7 @@ a {
 			    position: absolute;
 		    	-webkit-transition: left 500ms ease, opacity 200ms ease;
 					transition: left 500ms ease, opacity 200ms ease;
-					width: 500px;
+					width: 600px;
 				}
 				&:hover {
 					cursor: pointer;
