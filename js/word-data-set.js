@@ -3057,7 +3057,7 @@ var words = [
   {
     "id": 3043,
     "word": "inexorable",
-    "definition": "unyielding, unalterable",
+    "definition": "not to be persuaded, moved, or stopped",
     "wordtype": "adjective",
     "synonyms": "relentless, unstoppable, inescapable"
   },
@@ -3134,7 +3134,7 @@ var words = [
   {
     "id": 3128,
     "word": "insouciant",
-    "definition": "free from concern, worry, or anxiety, carefree, nonchalant",
+    "definition": "showing a casual lack of concern; indifferent",
     "wordtype": "adjective",
     "synonyms": "nonchalant, untroubled, unworried"
   },
@@ -3332,168 +3332,161 @@ var words = [
     "word": "jurisprudence",
     "definition": "the science or philosophy of law",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "act, case, law"
   },
   {
     "id": 3326,
     "word": "kismet",
-    "definition": "fate, destiny",
+    "definition": "a force that some people think controls what happens in the future, and is outside human control",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "destiny, fate"
   },
   {
     "id": 3329,
     "word": "knavery",
     "definition": "the (mis)behaviour of a knave, boyish mischief",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "devilish, mischief"
   },
   {
     "id": 3331,
     "word": "knell",
     "definition": "sound made by a bell rung slowly, especially for funerals",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "toll, tolling, dong"
   },
   {
     "id": 3341,
     "word": "lachrymose",
     "definition": "suggestive of or tending to cause tears, mournful",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "tearful, weepy, mawkish"
   },
   {
     "id": 3342,
     "word": "lackadaisical",
     "definition": "showing no interest or enthusiasm",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "lethargic, apathetic, listless"
   },
   {
     "id": 3345,
     "word": "laconic",
-    "definition": "using few words, concise",
+    "definition": "(of a person, speech, or style of writing) using very few words",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "brief, concise, terse"
   },
   {
     "id": 3351,
     "word": "laggard",
-    "definition": "hanging back, loitering",
+    "definition": "a person who makes slow progress and falls behind others",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "straggler, loiterer, lingerer"
   },
   {
     "id": 3352,
     "word": "lagniappe",
     "definition": "an extra or unexpected gift or benefit",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "perks, benefits"
   },
   {
     "id": 3354,
     "word": "lament",
     "definition": "to feel or express sorrow or regret for",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "mourn, grieve, sorrow"
   },
   {
     "id": 3355,
     "word": "lamentation",
-    "definition": "the act of lamenting",
+    "definition": "the passionate expression of grief or sorrow",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "weeping, wailing, crying"
   },
   {
     "id": 3356,
     "word": "lampoon",
     "definition": "to satirize or poke fun at",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "satirize, mock, ridicule"
   },
   {
     "id": 3357,
     "word": "lance",
     "definition": "to pierce with a lance, or with any similar weapon",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "spear, pike, javelin"
   },
   {
     "id": 3361,
     "word": "languid",
     "definition": "lacking in vigor or vitality, slack or slow",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "relaxed, unhurried, languorous"
   },
   {
     "id": 3362,
     "word": "languor",
     "definition": "a state of the body or mind caused by exhaustion or disease",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "lethargy, torpor, fatigue"
   },
   {
     "id": 3364,
     "word": "larceny",
     "definition": "the unlawful taking of personal property, theft",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "theft, stealing, robbery"
   },
   {
     "id": 3365,
     "word": "larder",
     "definition": "a cool room in a domestic house where food is stored",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3368,
-    "word": "lascivious",
-    "definition": "inclined to lustfulness, wanton, lewd",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "pantry, storeroom"
   },
   {
     "id": 3370,
     "word": "lassitude",
     "definition": "weariness of body or mind from strain, oppressive climate",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "lethargy, listlessness, weariness"
   },
   {
     "id": 3375,
     "word": "lattice",
     "definition": "a flat panel constructed with crossed thin strips of wood",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "grid, framework"
   },
   {
     "id": 3376,
     "word": "laud",
-    "definition": "to praise, to glorify",
+    "definition": "praise (a person or their achievements) highly, especially in a public context",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "praise, extol, applaud"
   },
   {
     "id": 3377,
     "word": "laudable",
-    "definition": "deserving praise, praiseworthy",
+    "definition": "(of an action, idea, or goal) deserving praise and commendation",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "praiseworthy, commendable, admirable"
   },
   {
     "id": 3382,
     "word": "lave",
-    "definition": "to pour or throw out, as water, lade out, bail",
+    "definition": "(of water) wash against or over (something)",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "wash, bathe"
   },
   {
     "id": 3388,
     "word": "laxity",
     "definition": "the state or quality of being lax",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "negligence, slack"
   },
   {
     "id": 3391,
@@ -6688,20 +6681,6 @@ var words = [
     "synonyms": ""
   },
   {
-    "id": 5302,
-    "word": "stereotype",
-    "definition": "a simplified and standardised conception held by a group",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5303,
-    "word": "sterling",
-    "definition": "(of silver) having the standard fineness 0 925",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
     "id": 5304,
     "word": "stevedore",
     "definition": "firm or individual engaged in loading or unloading a vessel",
@@ -7495,7 +7474,7 @@ var words = [
   {
     "id": 5648,
     "word": "truculent",
-    "definition": "fierce",
+    "definition": "eager or quick to argue or fight; aggressively defiant",
     "wordtype": "adjective",
     "synonyms": ""
   },
