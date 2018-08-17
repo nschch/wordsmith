@@ -320,28 +320,28 @@ var words = [
     "word": "aplomb",
     "definition": "self-confidence or assurance, especially when in a demanding situation",
     "wordtype": "noun",
-    "synonyms": "poise, self-assurance, self-confidence, calmness"
+    "synonyms": "poise, self-assurance, self-confidence"
   },
   {
     "id": 357,
     "word": "apparition",
     "definition": "a supernatural appearance of a person or thing, like a ghost",
     "wordtype": "noun",
-    "synonyms": "ghost, phantom, specter, spirit, wraith"
+    "synonyms": "ghost, phantom, specter"
   },
   {
     "id": 373,
     "word": "appurtenance",
     "definition": "an appendage added to something else",
     "wordtype": "noun",
-    "synonyms": "accessories, trappings, appendages, accoutrements"
+    "synonyms": "accessories, trappings, appendages"
   },
   {
     "id": 374,
     "word": "apropos",
     "definition": "of an appropriate or pertinent nature",
     "wordtype": "adjective",
-    "synonyms": "with reference to, with regard to, with respect to"
+    "synonyms": "with reference to, with regard to"
   },
   {
     "id": 385,
@@ -355,14 +355,14 @@ var words = [
     "word": "arcane",
     "definition": "known or understood by very few; mysterious or secret",
     "wordtype": "adjective",
-    "synonyms": "mysterious, secret; enigmatic, esoteric"
+    "synonyms": "mysterious, secret, enigmatic"
   },
   {
     "id": 397,
     "word": "ardent",
     "definition": "intensely devoted, fervent, passionate",
     "wordtype": "adjective",
-    "synonyms": "passionate, fervent, zealous, fervid, wholehearted"
+    "synonyms": "passionate, fervent, zealous"
   },
   {
     "id": 398,
@@ -376,7 +376,7 @@ var words = [
     "word": "arduous",
     "definition": "involving or requiring strenuous effort; difficult and tiring",
     "wordtype": "adjective",
-    "synonyms": "onerous, taxing, difficult, hard, heavy"
+    "synonyms": "onerous, taxing, difficult"
   },
   {
     "id": 400,
@@ -390,7 +390,7 @@ var words = [
     "word": "arrant",
     "definition": "complete, total",
     "wordtype": "adjective",
-    "synonyms": "utter, absolute, all-out, blank, categorical"
+    "synonyms": "utter, absolute, categorical"
   },
   {
     "id": 413,
@@ -418,7 +418,7 @@ var words = [
     "word": "asperity",
     "definition": "harshness of tone or manner",
     "wordtype": "noun",
-    "synonyms": "harshness, sharpness, abrasiveness, roughness"
+    "synonyms": "harshness, sharpness, abrasiveness"
   },
   {
     "id": 450,
@@ -432,7 +432,7 @@ var words = [
     "word": "assiduous",
     "definition": "showing great care and perseverance",
     "wordtype": "adjective",
-    "synonyms": "diligent, careful, meticulous, thorough"
+    "synonyms": "diligent, careful, meticulous"
   },
   {
     "id": 476,
@@ -804,7 +804,7 @@ var words = [
     "word": "charlatan",
     "definition": "a person falsely claiming to have special knowledge or skill",
     "wordtype": "noun",
-    "synonyms": "quack, sham, fraud, fake, impostor"
+    "synonyms": "quack, sham, fraud"
   },
   {
     "id": 902,
@@ -902,14 +902,14 @@ var words = [
     "word": "cloy",
     "definition": "disgust or sicken (someone) with an excess of sweetness, richness, or sentiment",
     "wordtype": "verb",
-    "synonyms": "sickly, syrupy, saccharine, oversweet;"
+    "synonyms": "sickly, syrupy, saccharine"
   },
   {
     "id": 971,
     "word": "cogent",
     "definition": "(of an argument or case) clear, logical, and convincing",
     "wordtype": "adjective",
-    "synonyms": "convincing, compelling, strong, forceful"
+    "synonyms": "convincing, compelling, strong"
   },
   {
     "id": 1039,
@@ -930,14 +930,14 @@ var words = [
     "word": "conciliatory",
     "definition": "intended or likely to placate or pacify",
     "wordtype": "adjective",
-    "synonyms": "propitiatory, placatory, appeasing, pacifying"
+    "synonyms": "placatory, appeasing, pacifying"
   },
   {
     "id": 1102,
     "word": "conflagration",
     "definition": "a large fire extending to many objects",
     "wordtype": "noun",
-    "synonyms": "fire, blaze, flames, inferno, firestorm"
+    "synonyms": "fire, blaze, flames"
   },
   {
     "id": 1104,
@@ -951,14 +951,14 @@ var words = [
     "word": "congenial",
     "definition": "having the same or very similar nature or personality",
     "wordtype": "adjective",
-    "synonyms": "hospitable, genial, personable, agreeable"
+    "synonyms": "hospitable, personable, agreeable"
   },
   {
     "id": 1121,
     "word": "congruity",
     "definition": "the quality of agreeing, the quality of being suitable",
     "wordtype": "noun",
-    "synonyms": "accord, accordance, agreement, conformance"
+    "synonyms": "accord, accordance, agreement"
   },
   {
     "id": 1122,
@@ -972,21 +972,21 @@ var words = [
     "word": "connive",
     "definition": "to cooperate with others secretly in order to commit a crime",
     "wordtype": "verb",
-    "synonyms": "conspire, collude, collaborate, intrigue"
+    "synonyms": "conspire, collude, collaborate"
   },
   {
     "id": 1132,
     "word": "connubial",
     "definition": "of or relating to the state of being married",
     "wordtype": "adjective",
-    "synonyms": "conjugal, marital, married, matrimonial"
+    "synonyms": "conjugal, marital, matrimonial"
   },
   {
     "id": 1134,
     "word": "consanguineous",
     "definition": "related by birth, having the same ancestry",
     "wordtype": "adjective",
-    "synonyms": "affiliation, affinity, agnate, brotherhood"
+    "synonyms": "affiliation, affinity, agnate"
   },
   {
     "id": 1137,
@@ -1007,7 +1007,7 @@ var words = [
     "word": "consonant",
     "definition": "characterized by harmony or agreement",
     "wordtype": "adjective",
-    "synonyms": "in agreement with, consistent with, in accordance with"
+    "synonyms": "in agreement with, consistent with"
   },
   {
     "id": 1159,
@@ -1028,7 +1028,7 @@ var words = [
     "word": "contemptuous",
     "definition": "scornful, disdainful",
     "wordtype": "adjective",
-    "synonyms": "scornful, disdainful, disrespectful, insulting, insolent"
+    "synonyms": "scornful, disdainful, disrespectful"
   },
   {
     "id": 1185,
@@ -1049,7 +1049,7 @@ var words = [
     "word": "contretemps",
     "definition": "an unforeseen, inopportune, or embarrassing event, a hitch",
     "wordtype": "noun",
-    "synonyms": "argument, quarrel, squabble, disagreement"
+    "synonyms": "argument, quarrel, squabble"
   },
   {
     "id": 1202,
@@ -1091,7 +1091,7 @@ var words = [
     "word": "cosset",
     "definition": "to care for and protect in an overindulgent way",
     "wordtype": "verb",
-    "synonyms": "pamper, indulge, overindulge, mollycoddle"
+    "synonyms": "pamper, indulge, overindulge"
   },
   {
     "id": 1273,
@@ -1112,7 +1112,7 @@ var words = [
     "word": "covenant",
     "definition": "an agreement between two or more persons, like a pact",
     "wordtype": "noun",
-    "synonyms": "contract, agreement, undertaking, commitment"
+    "synonyms": "contract, agreement, undertaking"
   },
   {
     "id": 1296,
@@ -1126,21 +1126,21 @@ var words = [
     "word": "craven",
     "definition": "contemptibly lacking in courage; cowardly",
     "wordtype": "adjective",
-    "synonyms": "cowardly, timid, weak, feeble, fearful"
+    "synonyms": "cowardly, timid, weak"
   },
   {
     "id": 1307,
     "word": "credulity",
     "definition": "willingness to believe or trust too readily",
     "wordtype": "noun",
-    "synonyms": "credulousness, gullibility, naiveness, naïveté"
+    "synonyms": "credulousness, gullibility, naïveté"
   },
   {
     "id": 1308,
     "word": "credulous",
     "definition": "having or showing too great a readiness to believe things",
     "wordtype": "adjective",
-    "synonyms": "gullible, naive, too trusting, easily taken in"
+    "synonyms": "gullible, naive, too trusting"
   },
   {
     "id": 1311,
@@ -1168,7 +1168,7 @@ var words = [
     "word": "cupidity",
     "definition": "greed for money or possessions",
     "wordtype": "noun",
-    "synonyms": "greed, avarice, avariciousness, acquisitiveness"
+    "synonyms": "greed, avarice, avariciousness"
   },
   {
     "id": 1349,
@@ -1204,14 +1204,14 @@ var words = [
     "word": "dearth",
     "definition": "a scarcity or lack of something",
     "wordtype": "noun",
-    "synonyms": "lack, scarcity, shortage, shortfall"
+    "synonyms": "lack, scarcity, shortage"
   },
   {
     "id": 1407,
     "word": "declamatory",
     "definition": "bombastic, ostentatiously lofty in style",
     "wordtype": "adjective",
-    "synonyms": "address, harangue, oration, speech"
+    "synonyms": "address, harangue, oration"
   },
   {
     "id": 1411,
@@ -1295,7 +1295,7 @@ var words = [
     "word": "denizen",
     "definition": "to grant rights of citizenship to, to naturalize",
     "wordtype": "verb",
-    "synonyms": "inhabitant, resident, native, local"
+    "synonyms": "inhabitant, resident, native"
   },
   {
     "id": 1505,
@@ -3489,627 +3489,466 @@ var words = [
     "synonyms": "negligence, slack"
   },
   {
-    "id": 3391,
-    "word": "leaven",
-    "definition": "to add a leavening agent",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3392,
-    "word": "lectern",
-    "definition": "a stand with a slanted top used to support a bible",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
     "id": 3393,
     "word": "leery",
     "definition": "cautious, hesitant, or nervous about something",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3394,
-    "word": "leeward",
-    "definition": "away from the direction from which the wind is blowing",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3397,
-    "word": "legerdemain",
-    "definition": "sleight of hand",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3409,
-    "word": "levee",
-    "definition": "an embankment to prevent inundation",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3414,
-    "word": "levity",
-    "definition": "lightness of manner or speech, frivolity",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3422,
-    "word": "liaison",
-    "definition": "communication between two parties or groups",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3423,
-    "word": "libation",
-    "definition": "pouring a liquid on the ground or on a victim in sacrifice",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3424,
-    "word": "libel",
-    "definition": "to defame someone",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3427,
-    "word": "libretto",
-    "definition": "the text of a dramatic musical work, such as an opera",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "wary, cautious, careful"
   },
   {
     "id": 3434,
     "word": "ligature",
     "definition": "The act of binding or tying up",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3435,
-    "word": "ligneous",
-    "definition": "of, or resembling wood, woody",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3437,
-    "word": "lilliputian",
-    "definition": "extremely small, tiny",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3438,
-    "word": "limber",
-    "definition": "bending readily, pliant, lithe",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "band, bind, bond"
   },
   {
     "id": 3441,
     "word": "limpid",
-    "definition": "clear, transparent, or pellucid, as water, crystal, or air",
+    "definition": "(especially of writing or music) clear and accessible or melodious",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "clear, lucid, plain"
   },
   {
     "id": 3442,
     "word": "linchpin",
-    "definition": "a pin through holes at the end of an axle to secure a wheel",
+    "definition": "a central cohesive source of support and stability",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3449,
-    "word": "liniment",
-    "definition": "a liquid or semi liquid preparation for applying to the skin",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "support, backbone"
   },
   {
     "id": 3450,
     "word": "lionize",
-    "definition": "to treat (a person) as a celebrity",
+    "definition": "give a lot of public attention and approval to (someone); treat as a celebrity",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "glorify, honor, exalt"
   },
   {
     "id": 3456,
     "word": "lissome",
     "definition": "lithe, quick and graceful in movement",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "agile, feline, graceful"
   },
   {
     "id": 3457,
     "word": "listless",
     "definition": "having or showing little or no interest in anything, languid",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "lethargic, enervated, spiritless"
   },
   {
     "id": 3463,
     "word": "lithe",
-    "definition": "bending readily, pliant, limber",
+    "definition": "(especially of a person's body) thin, supple, and graceful",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "agile, graceful, supple"
   },
   {
     "id": 3471,
     "word": "liturgy",
     "definition": "a form of public worship, ritual",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "ritual, worship, service"
   },
   {
     "id": 3479,
     "word": "loch",
-    "definition": "a lake",
+    "definition": "an arm of the sea, especially when narrow or partially landlocked",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "lake, sea"
   },
   {
     "id": 3481,
     "word": "lode",
     "definition": "a rich supply or source",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "deposit, source"
   },
   {
     "id": 3492,
     "word": "loquacious",
     "definition": "talking or tending to talk much or freely, talkative",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "talkative, voluble, communicative"
   },
   {
     "id": 3499,
     "word": "lucubration",
-    "definition": "laborious work, study, thought, etc , especially at night",
+    "definition": "laborious work, especially at night",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "work, studious"
   },
   {
     "id": 3501,
     "word": "lugubrious",
     "definition": "mournful, dismal or gloomy, especially in an affected manner",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "mournful, gloomy, sad"
   },
   {
     "id": 3506,
     "word": "lummox",
     "definition": "a clumsy, stupid person",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fool, buffoon"
   },
   {
     "id": 3510,
     "word": "lune",
     "definition": "anything shaped like a crescent or a half moon",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "lunar, moon"
   },
   {
     "id": 3511,
     "word": "lurid",
-    "definition": "shocking, horrifying",
+    "definition": "very vivid in color, especially so as to create an unpleasantly harsh or unnatural effect",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3518,
-    "word": "lyre",
-    "definition": "a stringed musical instrument",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "bright, brilliant, vivid"
   },
   {
     "id": 3519,
     "word": "macabre",
     "definition": "representing or personifying death",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3520,
-    "word": "macadamize",
-    "definition": "to cover with small, broken stones to form a smooth surface",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3528,
-    "word": "madrigal",
-    "definition": "a song for a small number of unaccompanied voices",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "gruesome, grisly, grim"
   },
   {
     "id": 3529,
     "word": "maelstrom",
     "definition": "a large, powerful, or violent whirlpool",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "whirlpool, vortex, eddy"
   },
   {
     "id": 3531,
     "word": "magisterial",
     "definition": "befitting the status of a master, authoritative",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3532,
-    "word": "magistracy",
-    "definition": "the office or dignity of a magistrate",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "authoritative, masterful"
   },
   {
     "id": 3533,
     "word": "magnanimous",
     "definition": "generous in forgiving an insult or injury",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "generous, charitable, benevolent"
   },
   {
     "id": 3534,
     "word": "magnate",
     "definition": "a person of great influence in a particular field",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "tycoon, mogul"
   },
   {
     "id": 3538,
     "word": "magniloquent",
     "definition": "speaking pompously, using swelling discourse, bombastic",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bombastic, pompous"
   },
   {
     "id": 3543,
     "word": "maladroit",
-    "definition": "unskillful, awkward, bungling",
+    "definition": "ineffective or bungling; clumsy",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bungling, awkward, inept"
   },
   {
     "id": 3544,
     "word": "malady",
     "definition": "any ailment or disease of the human body",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "illness, sickness, disease"
   },
   {
     "id": 3545,
     "word": "malaise",
     "definition": "a feeling of general bodily discomfort or unpleasantness",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "unhappiness, uneasiness, unease"
   },
   {
     "id": 3546,
     "word": "malapropism",
     "definition": "the use of an inappropriate word in place of a similar one",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "misuse, misapplication"
   },
   {
     "id": 3549,
     "word": "malediction",
-    "definition": "a curse, imprecation, slander",
+    "definition": "a magical word or phrase uttered with the intention of bringing about evil or destruction",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "curse, damnation, oath"
   },
   {
     "id": 3550,
     "word": "malefactor",
-    "definition": "a criminal or felon",
+    "definition": "a person who commits a crime or some other wrong",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "criminal, miscreant, wrongdoer"
   },
   {
     "id": 3553,
     "word": "malfeasance",
     "definition": "an act by a public official that is contrary to law",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "illegal, unjustified"
   },
   {
     "id": 3555,
     "word": "malign",
     "definition": "to make defamatory statements about someone or something",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "defame, slander, libel"
   },
   {
     "id": 3556,
     "word": "malignant",
     "definition": "disposed to cause harm, suffering, or distress deliberately",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "spiteful, malicious, malevolen"
   },
   {
     "id": 3557,
     "word": "malinger",
     "definition": "to pretend illness, especially in order to shirk one's duty",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3575,
-    "word": "manumit",
-    "definition": "to release from slavery, to free",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "feign illness"
   },
   {
     "id": 3577,
     "word": "maraud",
     "definition": "to roam or go around in quest of plunder",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "raid, plunder"
   },
   {
     "id": 3584,
     "word": "marred",
-    "definition": "impaired appearance",
+    "definition": "impair the appearance of; disfigure",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "spoil, impair, disfigure"
   },
   {
     "id": 3598,
     "word": "masticate",
-    "definition": "to chew",
+    "definition": "to soften or reduce to pulp by crushing or kneading",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3604,
-    "word": "matriculate",
-    "definition": "to enroll in a college or university as a degree candidate",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "chew, munch, champ"
   },
   {
     "id": 3608,
     "word": "maudlin",
     "definition": "tearfully or weakly emotional, foolishly sentimental",
     "wordtype": "",
-    "synonyms": ""
+    "synonyms": "sentimental, emotional"
   },
   {
     "id": 3612,
     "word": "mawkish",
     "definition": "characterized by sickly sentimentality, maudlin",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sentimental, maudlin"
   },
   {
     "id": 3628,
     "word": "megalomania",
     "definition": "a symptom of mental illness marked by delusions of greatness",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "delusions of grandeur"
   },
   {
     "id": 3630,
     "word": "melange",
     "definition": "a collection containing a variety of miscellaneous things",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 3632,
-    "word": "meliorate",
-    "definition": "to make better, to improve, to heal or solve a problem",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 3633,
-    "word": "mellifluous",
-    "definition": "sweetly or smoothly flowing, sweet-sounding",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 3640,
-    "word": "mendacious",
-    "definition": "lying, untruthful or dishonest",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "mixture, medley, assortment"
   },
   {
     "id": 3650,
     "word": "mercurial",
-    "definition": "changeable, volatile, fickle",
+    "definition": "(of a person) subject to sudden or unpredictable changes of mood or mind",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "volatile, capricious, temperamental"
   },
   {
     "id": 3681,
     "word": "milieu",
     "definition": "a person’s social setting or environment",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "environment, sphere, background"
   },
   {
     "id": 3698,
     "word": "mire",
-    "definition": "to weigh down",
+    "definition": "a situation or state of difficulty, distress, or embarrassment from which it is hard to extricate oneself",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "predicament, plight"
   },
   {
     "id": 3699,
     "word": "mirth",
     "definition": "gaiety or jollity, especially when accompanied by laughter",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "merriment, high spirits, cheerfulness"
   },
   {
     "id": 3701,
     "word": "misanthrope",
-    "definition": "a hater of human kind",
+    "definition": "a person who dislikes humankind and avoids human society",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "cynic, hater"
   },
   {
     "id": 3712,
     "word": "miserly",
     "definition": "like a miser, very covetous, stingy, cautious with money",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "mean, close-fisted"
   },
   {
     "id": 3717,
     "word": "misnomer",
     "definition": "to use a misleading term, to misname",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "inaccurate, wrong"
   },
   {
     "id": 3725,
     "word": "missive",
     "definition": "a written message, a letter, note or memo",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "message, communication"
   },
   {
     "id": 3741,
     "word": "modicum",
-    "definition": "a moderate or small amount",
+    "definition": "a small quantity of a particular thing, especially something considered desirable or valuable",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fragment, morsel, small amount"
   },
   {
     "id": 3744,
     "word": "modish",
-    "definition": "conforming with fashion or style",
+    "definition": "conforming to or following what is currently popular and fashionable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "fashionable, stylish, chic"
   },
   {
     "id": 3747,
     "word": "molt",
     "definition": "to shed hair, feathers, etc and replace with a fresh layer",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "shed, exfoliate"
   },
   {
     "id": 3777,
     "word": "mordant",
     "definition": "sharply caustic or sarcastic, as wit or a speaker, biting",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "caustic, trenchant, biting"
   },
   {
     "id": 3798,
     "word": "multifarious",
     "definition": "having multiplicity, having great diversity or variety",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "diverse, many, numerous"
   },
   {
     "id": 3800,
     "word": "multiplicity",
     "definition": "a large number or variety",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "abundance, scores"
   },
   {
     "id": 3810,
     "word": "mutable",
     "definition": "liable or subject to change or alteration",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "changeable, variable"
   },
   {
     "id": 3814,
     "word": "myopia",
     "definition": "a disorder of the eyes where distant objects appear blurred",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "nearsighted, shortsighted"
   },
   {
     "id": 3819,
     "word": "nadir",
     "definition": "the lowest point, point of greatest adversity or despair",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "bottom, lowest point"
   },
   {
     "id": 3824,
     "word": "nascent",
     "definition": "beginning to exist or develop",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "beginning, developing"
   },
   {
     "id": 3827,
     "word": "natty",
-    "definition": "smart and fashionable",
+    "definition": "(especially of a person or an article of clothing) smart and fashionable",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "smart, stylish"
   },
   {
     "id": 3842,
     "word": "nefarious",
-    "definition": "extremely wicked or villainous, iniquitous",
+    "definition": "(typically of an action or activity) wicked or criminal",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "wicked, evil, sinful"
   },
   {
     "id": 3856,
     "word": "neophyte",
-    "definition": "a beginner",
+    "definition": "a person who is new to a subject, skill, or belief",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "begineer, novice"
   },
   {
     "id": 3866,
     "word": "nexus",
     "definition": "a means of connection, tie, link",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "center, network"
   },
   {
     "id": 3880,
     "word": "nomenclature",
-    "definition": "a name",
+    "definition": "the devising or choosing of names for things, especially in a science or other discipline",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "name, titles"
   },
   {
     "id": 3882,
     "word": "nominal",
     "definition": "being such in name only, so-called",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "in name only, supposed"
   },
   {
     "id": 3885,
     "word": "non sequitur",
-    "definition": "a statement containing an illogical conclusion",
+    "definition": "a conclusion or statement that does not logically follow from the previous argument or statement",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "does not follow, irrelevant"
   },
   {
     "id": 3893,
     "word": "nonpareil",
     "definition": "a person or thing that has no equal, a paragon",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "incomparable, matchless"
   },
   {
     "id": 3895,
@@ -4332,13 +4171,6 @@ var words = [
     "id": 4206,
     "word": "penitent",
     "definition": "feeling or expressing sorrow for sin or wrongdoing",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 4217,
-    "word": "pentavalent",
-    "definition": "having a valence of 5",
     "wordtype": "adjective",
     "synonyms": ""
   },
@@ -6916,41 +6748,6 @@ var words = [
     "word": "suasion",
     "definition": "the act of urging or influencing, persuasion",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5339,
-    "word": "suave",
-    "definition": "charming, confident and elegant",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5340,
-    "word": "subacid",
-    "definition": "somewhat acidic",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5341,
-    "word": "subaquatic",
-    "definition": "located or living under water, submarine",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5342,
-    "word": "subconscious",
-    "definition": "the mental processes of which the individual is not aware",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5343,
-    "word": "subdue",
-    "definition": "to overcome, quieten, or bring under control",
-    "wordtype": "verb",
     "synonyms": ""
   },
   {
