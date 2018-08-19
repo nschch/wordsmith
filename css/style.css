@@ -102,7 +102,6 @@ a {
       padding-right: 15px;
       position: relative; }
       .footer ul li span.text__credits span.text--reveal {
-        display: none;
         opacity: 0;
         left: 20px;
         position: absolute;
@@ -112,7 +111,6 @@ a {
       .footer ul li span.text__credits:hover {
         cursor: pointer; }
         .footer ul li span.text__credits:hover span.text--reveal {
-          display: inline-block;
           opacity: 1;
           left: 60px;
           -webkit-transition: left 200ms ease, opacity 500ms ease;
