@@ -5360,9 +5360,10 @@ var words = [
   {
     "id": 5170,
     "word": "signatory",
-    "definition": "a party that has signed an agreement, especially a country that has signed a treaty.",
+    "definition": "a party that has signed an agreement, especially a country that has signed a treaty",
     "wordtype": "adjective",
     "synonyms": "witness, signatory"
+  },
   {
     "id": 5172,
     "word": "simile",
