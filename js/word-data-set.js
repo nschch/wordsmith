@@ -44,7 +44,7 @@ var words = [
   {
     "id": 16,
     "word": "abject",
-    "definition": "to cast off or down, to abase",
+    "definition": "(of a person or their behavior) completely without pride or dignity",
     "wordtype": "verb",
     "synonyms": "wretched, hopeless, pathetic"
   },
@@ -486,9 +486,9 @@ var words = [
   {
     "id": 523,
     "word": "avocation",
-    "definition": "a calling away, a diversion",
+    "definition": "a subordinate occupation pursued in addition to one's vocation especially for enjoyment",
     "wordtype": "noun",
-    "synonyms": "hobby, hobbyhorse, pursuit, recreation"
+    "synonyms": "hobby, pursuit, recreation"
   },
   {
     "id": 532,
@@ -626,16 +626,16 @@ var words = [
   {
     "id": 754,
     "word": "bruit",
-    "definition": "to spread, promulgate or disseminate a rumour, news etc",
+    "definition": "spread (a report or rumor) widely",
     "wordtype": "verb",
-    "synonyms": "circulate, rumor, whisper, gossip, babble"
+    "synonyms": "circulate, rumor, whisper"
   },
   {
     "id": 757,
     "word": "bucolic",
     "definition": "a pastoral poem",
     "wordtype": "noun",
-    "synonyms": "rustic, rural, pastoral, country, countryside"
+    "synonyms": "rustic, rural, pastoral, country"
   },
   {
     "id": 765,
@@ -656,7 +656,7 @@ var words = [
     "word": "cajole",
     "definition": "persuade someone to do something by flattery or coaxing",
     "wordtype": "verb",
-    "synonyms": "persuade, wheedle, coax, talk into, prevail on"
+    "synonyms": "persuade, wheedle, coax"
   },
   {
     "id": 800,
@@ -670,14 +670,14 @@ var words = [
     "word": "callosity",
     "definition": "devoid of passion or feeling; hardheartedness",
     "wordtype": "adjective",
-    "synonyms": "insensitivity, insensibility, insensitiveness"
+    "synonyms": "insensitivity, insensibility"
   },
   {
     "id": 803,
     "word": "callow",
     "definition": "(especially of a young person) inexperienced and immature",
     "wordtype": "adjective",
-    "synonyms": "immature, inexperienced, juvenile, adolescent"
+    "synonyms": "immature, inexperienced, juvenile"
   },
   {
     "id": 814,
@@ -696,9 +696,9 @@ var words = [
   {
     "id": 822,
     "word": "cantankerous",
-    "definition": "ill-tempered, cranky, surly, crabby",
+    "definition": "difficult or irritating to deal with",
     "wordtype": "adjective",
-    "synonyms": "bad-tempered, captious contrary"
+    "synonyms": "bad-tempered, surly, cranky"
   },
   {
     "id": 824,
@@ -712,14 +712,14 @@ var words = [
     "word": "canto",
     "definition": "one of the chief divisions of a long poem, a book",
     "wordtype": "noun",
-    "synonyms": "poem, section, subdivision, verse, form"
+    "synonyms": "poem, section, subdivision"
   },
   {
     "id": 828,
     "word": "capacious",
     "definition": "having a lot of space inside, roomy",
     "wordtype": "adjective",
-    "synonyms": "roomy, spacious, ample, big, large"
+    "synonyms": "roomy, spacious, ample"
   },
   {
     "id": 830,
@@ -740,14 +740,14 @@ var words = [
     "word": "capricious",
     "definition": "given to sudden, unaccountable changes of mood or behavior",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "fickle, inconstant, changeable"
   },
   {
     "id": 833,
     "word": "captious",
-    "definition": "apt to notice and make much of trivial defaults",
+    "definition": "(of a person) tending to find fault or raise petty objections",
     "wordtype": "adjective",
-    "synonyms": "fickle, inconstant, mercurial"
+    "synonyms": "critical, faultfinding, hypercritical"
   },
 
   {
@@ -755,49 +755,49 @@ var words = [
     "word": "castigate",
     "definition": "to punish, reprimand someone severely",
     "wordtype": "verb",
-    "synonyms": "reprimand, rebuke, admonish, chastise, chide"
+    "synonyms": "reprimand, rebuke, admonish"
   },
   {
     "id": 854,
     "word": "casuistry",
     "definition": "oversubtle reasoning in questions of morality",
     "wordtype": "noun",
-    "synonyms": "sophistry, specious reasoning, speciousness"
+    "synonyms": "sophistry, specious reasoning"
   },
   {
     "id": 863,
     "word": "caterwaul",
     "definition": "to have a noisy argument",
     "wordtype": "verb",
-    "synonyms": "howl, wail, bawl, cry, yell, scream"
+    "synonyms": "howl, wail, bawl, cry"
   },
   {
     "id": 870,
     "word": "caustic",
     "definition": "capable of destroying or eating away by chemical action",
     "wordtype": "adjective",
-    "synonyms": "sarcastic, cutting, biting, mordant"
+    "synonyms": "sarcastic, cutting, biting"
   },
   {
     "id": 871,
     "word": "cauterize",
     "definition": "make insensitive or callous; deaden feelings or morals",
     "wordtype": "verb",
-    "synonyms": "harden, icallous, burn, inure"
+    "synonyms": "harden, icallous, burn"
   },
   {
     "id": 874,
     "word": "cavil",
     "definition": "to make petty or unnecessary objections",
     "wordtype": "verb",
-    "synonyms": "carp, fuss, nitpick, quibble"
+    "synonyms": "carp, fuss, nitpick"
   },
   {
     "id": 875,
     "word": "cavort",
     "definition": "to prance, said of mounts",
     "wordtype": "verb",
-    "synonyms": "skip, dance, romp, jig, caper, frisk"
+    "synonyms": "skip, dance, romp, jig"
   },
   {
     "id": 901,
@@ -811,7 +811,7 @@ var words = [
     "word": "chary",
     "definition": "cautious, wary",
     "wordtype": "adjective",
-    "synonyms": "wary, cautious, circumspect, heedful"
+    "synonyms": "wary, cautious, circumspect"
   },
   {
     "id": 906,
@@ -825,21 +825,21 @@ var words = [
     "word": "chide",
     "definition": "to scold or rebuke",
     "wordtype": "verb",
-    "synonyms": "scold, chastise, upbraid, berate"
+    "synonyms": "scold, chastise, upbraid"
   },
   {
     "id": 928,
     "word": "churlish",
     "definition": "rude in a mean-spirited and surly way",
     "wordtype": "adjective",
-    "synonyms": "rude, ill-mannered, ill-bred, discourteous"
+    "synonyms": "rude, ill-mannered, ill-bred"
   },
   {
     "id": 929,
     "word": "chutzpah",
     "definition": "nearly arrogant courage, supreme self-confidence",
     "wordtype": "noun",
-    "synonyms": "audacity, cheek, guts, nerve, boldness"
+    "synonyms": "audacity, cheek, guts, nerve"
   },
   {
     "id": 935,
@@ -860,21 +860,21 @@ var words = [
     "word": "citadel",
     "definition": "a strong fortress that sits high above a city",
     "wordtype": "noun",
-    "synonyms": "fortress, fort, stronghold, fortification"
+    "synonyms": "fortress, fort, stronghold"
   },
   {
     "id": 943,
     "word": "clamber",
     "definition": "to climb something with some difficulty",
     "wordtype": "verb",
-    "synonyms": "scramble, climb, scrabble, claw one's way"
+    "synonyms": "scramble, climb, scrabble"
   },
   {
     "id": 947,
     "word": "clangour",
     "definition": "a loud, resonant sound, clang",
     "wordtype": "verb",
-    "synonyms": "babel, blare, bluster, cacophony"
+    "synonyms": "babel, blare, bluster"
   },
   {
     "id": 950,
@@ -895,7 +895,7 @@ var words = [
     "word": "clement",
     "definition": "lenient or merciful, charitable",
     "wordtype": "adjective",
-    "synonyms": "mild, merciful, lenient, compassionate"
+    "synonyms": "mild, merciful, lenient"
   },
   {
     "id": 962,
@@ -1300,7 +1300,7 @@ var words = [
   {
     "id": 1505,
     "word": "deplore",
-    "definition": "to bewail, to weep bitterly over, to feel sorrow for",
+    "definition": "feel or express strong disapproval of (something)",
     "wordtype": "verb",
     "synonyms": "abhor, find unacceptable, frown on"
   },
@@ -1706,7 +1706,7 @@ var words = [
   {
     "id": 2015,
     "word": "enigmatic",
-    "definition": "perplexing, mysterious, resembling an enigma",
+    "definition": "difficult to interpret or understand",
     "wordtype": "adjective",
     "synonyms": "mysterious, inscrutable, puzzling"
   },
@@ -1895,7 +1895,7 @@ var words = [
   {
     "id": 2102,
     "word": "espy",
-    "definition": "to catch sight or, to perceive with the eyes, to discover",
+    "definition": "to suddenly or unexpectedly see something, especially something a long distance away",
     "wordtype": "verb",
     "synonyms": "catch sight of, glimpse, see"
   },
@@ -2154,7 +2154,7 @@ var words = [
   {
     "id": 2277,
     "word": "farcical",
-    "definition": "resembling a farce, ludicrous, absurd",
+    "definition": "of or resembling a farce, especially because of absurd or ridiculous aspects",
     "wordtype": "adjective",
     "synonyms": "ridiculous, preposterous, ludicrous"
   },
@@ -2294,7 +2294,7 @@ var words = [
   {
     "id": 2374,
     "word": "flout",
-    "definition": "to treat with disdain, scorn, or contempt, scoff at, mock",
+    "definition": "openly disregard a rule, law or convention",
     "wordtype": "verb",
     "synonyms": "defy, refuse to obey, disobey"
   },
@@ -2511,7 +2511,7 @@ var words = [
   {
     "id": 2566,
     "word": "ghoulish",
-    "definition": "resembling or characteristic of a ghoul",
+    "definition": "morbidly interested in death or disaster",
     "wordtype": "adjective",
     "synonyms": "macabre, grisly, gruesome"
   },
@@ -2616,7 +2616,7 @@ var words = [
   {
     "id": 2638,
     "word": "guileless",
-    "definition": "sincere, honest, straightforward, frank",
+    "definition": "devoid of guile; innocent and without deception",
     "wordtype": "adjective",
     "synonyms": "artless, ingenuous, naive"
   },
@@ -2861,9 +2861,9 @@ var words = [
   {
     "id": 2883,
     "word": "impervious",
-    "definition": "not permitting penetration or passage, impenetrable",
+    "definition": "not permitting penetration or passage",
     "wordtype": "adjective",
-    "synonyms": "impermeable, impenetrable, impregnable,"
+    "synonyms": "impermeable, impenetrable, impregnable"
   },
   {
     "id": 2888,
@@ -3190,7 +3190,7 @@ var words = [
   {
     "id": 3208,
     "word": "inured",
-    "definition": "to accustom to hardship, difficulty, pain, etc",
+    "definition": "accustom (someone) to something, especially something unpleasant",
     "wordtype": "verb",
     "synonyms": "harden, toughen, season"
   },
@@ -4380,7 +4380,7 @@ var words = [
   {
     "id": 4365,
     "word": "plaintive",
-    "definition": "sounding sad and mournful",
+    "definition": "used to describe something that sounds slightly sad",
     "wordtype": "adjective",
     "synonyms": "mournful, sad, wistful"
   },
@@ -4688,7 +4688,7 @@ var words = [
   {
     "id": 4646,
     "word": "puissant",
-    "definition": "powerful, mighty, having authority",
+    "definition": "having great power or influence",
     "wordtype": "adjective",
     "synonyms": "heavy, important, influential"
   },
@@ -4716,7 +4716,7 @@ var words = [
   {
     "id": 4661,
     "word": "purview",
-    "definition": "the range of operation, authority, control, etc",
+    "definition": "the scope of the influence or concerns of something",
     "wordtype": "noun",
     "synonyms": "extent, range, scope"
   },
@@ -5481,84 +5481,49 @@ var words = [
     "word": "solace",
     "definition": "comfort in sorrow, misfortune or trouble",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5210,
-    "word": "solder",
-    "definition": "an alloy applied between metal objects to unite them",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "comfort, consolation, cheer"
   },
   {
     "id": 5211,
     "word": "solecism",
     "definition": "a nonstandard or ungrammatical usage",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "mistake, error, blunder"
   },
   {
     "id": 5212,
     "word": "solemn",
-    "definition": "deeply serious and somber",
+    "definition": "characterized by dignified or serious formality, as proceedings; of a formal or ceremonious character",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "serious, stately"
   },
   {
     "id": 5213,
     "word": "solicit",
     "definition": "to persistently try to get something or bring about an event",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "ask for, request, seek"
   },
   {
     "id": 5214,
     "word": "solicitude",
-    "definition": "anxiety or concern",
+    "definition": "care or concern for someone or something",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "anxiety, concern"
   },
   {
     "id": 5215,
     "word": "soliloquy",
     "definition": "speech by a person talking to himself, disregarding others",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "monologue, speech"
   },
   {
     "id": 5216,
     "word": "solipsistic",
     "definition": "of the theory that only the self can be proved to exist",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5217,
-    "word": "solstice",
-    "definition": "either the shortest or longest day of the year",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5218,
-    "word": "solubility",
-    "definition": "the quality or property of being soluble",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5219,
-    "word": "soluble",
-    "definition": "capable of being dissolved or liquefied",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5220,
-    "word": "solvent",
-    "definition": "a substance that dissolves another to form a solution",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "egocentric"
   },
   {
     "id": 5221,
@@ -5572,28 +5537,21 @@ var words = [
     "word": "somber",
     "definition": "dark and dull in colour or things in respect to colour",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5223,
-    "word": "somnambulist",
-    "definition": "a person who walks about in his or her sleep",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "dark, drab, dull"
   },
   {
     "id": 5224,
     "word": "somniferous",
     "definition": "causing or inducing sleep, normally with harmful overtones",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "hypnotic, narcotic, opiate"
   },
   {
     "id": 5225,
     "word": "somnolent",
-    "definition": "drowsy or sleepy",
+    "definition": "tending to cause sleep or drowsiness",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sleepy, drowsy, tired"
   },
   {
     "id": 5226,
@@ -5605,611 +5563,198 @@ var words = [
   {
     "id": 5227,
     "word": "sonnet",
-    "definition": "a fixed verse form of 14 lines usually in iambic pentameter",
+    "definition": "a fixed verse form of fourteen lines usually in iambic pentameter",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "poem, verse"
   },
   {
     "id": 5228,
     "word": "sonorous",
     "definition": "capable of giving out a deep, resonant sound",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "resonant, rich, full, round"
   },
   {
     "id": 5229,
     "word": "soothsayer",
     "definition": "a person who professes or foretell events",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "seer, oracle"
   },
   {
     "id": 5230,
     "word": "sophism",
-    "definition": "any false argument",
+    "definition": "a fallacious argument, especially one used deliberately to deceive",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "misconception, deception"
   },
   {
     "id": 5231,
     "word": "sophistical",
-    "definition": "fallacious",
+    "definition": "characteristic or suggestive of sophistry",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5232,
-    "word": "sophisticate",
-    "definition": "make worldly-wise",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "fallacious, deception"
   },
   {
     "id": 5233,
     "word": "sophistry",
     "definition": "a superficially plausible, but false method of reasoning",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fallacy, deceptive"
   },
   {
     "id": 5234,
     "word": "sophomoric",
-    "definition": "of, relating to, or characteristic of a sophomore",
+    "definition": "conceited and overconfident of knowledge but poorly informed and immature",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5235,
-    "word": "soporific",
-    "definition": "causing or tending to cause sleep",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5236,
-    "word": "soprano",
-    "definition": "the highest singing voice in women and boys",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5237,
-    "word": "sorcery",
-    "definition": "magic done with the help of evil spirits",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "foolish, immature"
   },
   {
     "id": 5238,
     "word": "sordid",
-    "definition": "dirty or squalid",
+    "definition": "involving ignoble actions and motives; arousing moral distaste and contempt",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5239,
-    "word": "souvenir",
-    "definition": "an item to remember an event or location",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5240,
-    "word": "sovereign",
-    "definition": "a monarch",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5241,
-    "word": "sparse",
-    "definition": "having widely spaced intervals",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sleazy, dirty, seedy"
   },
   {
     "id": 5242,
     "word": "spartan",
-    "definition": "austere, frugal or characterized by self-denial",
+    "definition": "showing the indifference to comfort or luxury traditionally associated with ancient Sparta",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "austere, harsh, hard"
   },
   {
     "id": 5243,
     "word": "spasmodic",
-    "definition": "sudden but brief",
+    "definition": "occurring or done in brief, irregular bursts",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "intermittent, fitful, irregular"
   },
   {
     "id": 5244,
     "word": "spate",
-    "definition": "a sudden outpouring",
+    "definition": "a large number of similar things or events appearing or occurring in quick succession",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5245,
-    "word": "spawn",
-    "definition": "to produce or deposit (eggs) in water",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5246,
-    "word": "specimen",
-    "definition": "an individual instance that represents a class, an example",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "series, succession, run"
   },
   {
     "id": 5247,
     "word": "specious",
-    "definition": "apparently good or right though lacking real merit",
+    "definition": "misleading in appearance, especially misleadingly attractive",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5248,
-    "word": "speckled",
-    "definition": "marked with dots",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5249,
-    "word": "spectator",
-    "definition": "one who observes an event, an observer",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "misleading, deceptive, false"
   },
   {
     "id": 5250,
     "word": "specter",
-    "definition": "a ghostly apparition",
+    "definition": "something widely feared as a possible unpleasant or dangerous occurrence",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5251,
-    "word": "spectrum",
-    "definition": "a broad range of varied but related ideas or objects",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5252,
-    "word": "speculate",
-    "definition": "to think, meditate or reflect on a subject",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5253,
-    "word": "speculator",
-    "definition": "one who speculates",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5254,
-    "word": "spelunker",
-    "definition": "one who explores caves, one who spelunks",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5255,
-    "word": "spendthrift",
-    "definition": "a person who spends money extravagantly or wastefully",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5256,
-    "word": "sphericity",
-    "definition": "the quality of being spherical",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5257,
-    "word": "spheroid",
-    "definition": "a solid geometrical figure similar in shape to a sphere",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5258,
-    "word": "spherometer",
-    "definition": "an instrument for measuring the curvature of surfaces",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5259,
-    "word": "spinous",
-    "definition": "thorny, as a plant",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5260,
-    "word": "spinster",
-    "definition": "a woman still unmarried beyond the usual age of marriage",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "threat, menace"
   },
   {
     "id": 5261,
     "word": "splenetic",
-    "definition": "irritable",
+    "definition": "marked by bad temper, malevolence, or spite",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5262,
-    "word": "spontaneous",
-    "definition": "coming from natural impulse",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bad-tempered, ill-tempered"
   },
   {
     "id": 5263,
     "word": "sporadic",
-    "definition": "appearing or happening at irregular intervals",
+    "definition": "occurring at irregular intervals or only in a few places; scattered or isolated",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "occasional, infrequent, irregular"
   },
   {
     "id": 5264,
     "word": "sprightly",
-    "definition": "animated, vivacious, or gay, lively",
+    "definition": "(especially of an old person) lively; full of energy",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "spry, lively, agile, nimble"
   },
   {
     "id": 5265,
     "word": "spurious",
-    "definition": "not genuine",
+    "definition": "not being what it purports to be; false or fake",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bogus, fake, false"
   },
   {
     "id": 5266,
     "word": "spurn",
     "definition": "to reject disdainfully, contemn, scorn",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5267,
-    "word": "squabble",
-    "definition": "to participate in a minor fight or argument",
-    "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "rebuff, scorn"
   },
   {
     "id": 5268,
     "word": "squalid",
     "definition": "foul and repulsive from lack of care or cleanliness",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "dirty, filthy, grubby"
   },
   {
     "id": 5269,
     "word": "squalor",
-    "definition": "filth and misery",
+    "definition": "a state of being extremely dirty and unpleasant, especially as a result of poverty or neglect",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "dirt, filth, grubbiness"
   },
   {
     "id": 5270,
     "word": "squander",
-    "definition": "to waste, lavish, splurge",
+    "definition": "waste (something, especially money or time) in a reckless and foolish manner.",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5271,
-    "word": "squatter",
-    "definition": "one who occupies a building or land without permission",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5272,
-    "word": "squeamish",
-    "definition": "easily bothered or upset, tending to be nauseous or nervous",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5273,
-    "word": "staccato",
-    "definition": "shortened and detached when played or sung",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5274,
-    "word": "stagnant",
-    "definition": "lacking freshness, motion, progress, or change",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5275,
-    "word": "stagnate",
-    "definition": "to cease motion, activity, or progress",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5276,
-    "word": "stagnation",
-    "definition": "inactivity",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5277,
-    "word": "stagy",
-    "definition": "theatrical",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "waste, misspend, misuse"
   },
   {
     "id": 5278,
     "word": "staid",
     "definition": "of settled or sedate character, not flighty",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5279,
-    "word": "stallion",
-    "definition": "an uncastrated male horse",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "sedate, respectable, quiet"
   },
   {
     "id": 5280,
     "word": "stalwart",
-    "definition": "firmly built",
+    "definition": "a loyal, reliable, and hardworking supporter or participant in an organization or team",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5281,
-    "word": "stamina",
-    "definition": "the energy for continuing to do something for a long time",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "staunch, loyal, faithful"
   },
   {
     "id": 5282,
     "word": "stanch",
-    "definition": "to stop the flow of",
+    "definition": "firm in one's allegiance to someone or something",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5283,
-    "word": "stanchion",
-    "definition": "an upright bar or beam used as support in a window or stall",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "constant, dedicated"
   },
   {
     "id": 5284,
     "word": "stanza",
     "definition": "a unit of a poem, equivalent to a verse",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5285,
-    "word": "stark",
-    "definition": "sheer, utter, downright or complete",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "verse, poem"
   },
   {
     "id": 5286,
     "word": "statecraft",
     "definition": "the art of government and diplomacy",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "civics, polity"
   },
   {
     "id": 5287,
     "word": "stately",
-    "definition": "of people: regal, dignified, worthy of respect",
+    "definition": "having a dignified, unhurried, and grand manner; majestic in manner and appearance",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5288,
-    "word": "static",
-    "definition": "characterised by a fixed or stationary position",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5289,
-    "word": "statics",
-    "definition": "branch of mechanics dealing w/ forces in static equilibrium",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5290,
-    "word": "stationary",
-    "definition": "standing still, not moving",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5291,
-    "word": "statistician",
-    "definition": "a person who compiles, interprets, or studies statistics",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5292,
-    "word": "statuesque",
-    "definition": "like a statue",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5293,
-    "word": "statuette",
-    "definition": "a small statue",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5294,
-    "word": "stature",
-    "definition": "a person or animal's natural height when standing upright",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5295,
-    "word": "statute",
-    "definition": "written law, as laid down by the legislature",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5296,
-    "word": "staunch",
-    "definition": "to stop the flow of (blood)",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5297,
-    "word": "steadfast",
-    "definition": "fixed or unchanging, steady",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5298,
-    "word": "stealth",
-    "definition": "secret or clandestine procedure",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5299,
-    "word": "stellar",
-    "definition": "of, pertaining to, or characteristic of stars",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5300,
-    "word": "stentorian",
-    "definition": "very loud or powerful in sound",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "dignified, majestic, ceremonious"
   },
   {
     "id": 5301,
     "word": "steppe",
-    "definition": "the grasslands of eastern europe and asia",
+    "definition": "a large area of flat unforested grassland in southeastern Europe or Siberia",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5304,
-    "word": "stevedore",
-    "definition": "firm or individual engaged in loading or unloading a vessel",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5305,
-    "word": "stifle",
-    "definition": "to quell, crush or end by force",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5306,
-    "word": "stigma",
-    "definition": "a mark of disgrace or infamy",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5307,
-    "word": "stigmatize",
-    "definition": "to characterize as disgraceful, to mark with a stigma",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5308,
-    "word": "stiletto",
-    "definition": "a short dagger with a thick blade",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5309,
-    "word": "stimulate",
-    "definition": "to encourage into action",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5310,
-    "word": "stimulus",
-    "definition": "anything that may have an impact or influence on a system",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5311,
-    "word": "stingy",
-    "definition": "reluctant to give or spend",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5312,
-    "word": "stint",
-    "definition": "a period of time spent doing something",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5313,
-    "word": "stipend",
-    "definition": "a fixed payment, generally small",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5314,
-    "word": "stipulate",
-    "definition": "to require (something) as a condition of a contract",
-    "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5315,
-    "word": "stoic",
-    "definition": "unaffected, indifferent, restrained",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "plains, grasslands"
   },
   {
     "id": 5316,
