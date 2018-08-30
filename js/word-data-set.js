@@ -70,6 +70,13 @@ var words = [
     "synonyms": "erode, scrape away, corrode"
   },
   {
+    "id": 27,
+    "word": "abreast",
+    "definition": "up to a particular standard or level especially of knowledge of recent developments",
+    "wordtype": "verb",
+    "synonyms": "watch, attend, comply"
+  },
+  {
     "id": 30,
     "word": "abrogate",
     "definition": "to abolish by authoritative action",
@@ -79,16 +86,16 @@ var words = [
   {
     "id": 33,
     "word": "abscond",
-    "definition": "to depart secretly",
+    "definition": "leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft",
     "wordtype": "verb",
-    "synonyms": "run away, escape, bolt"
+    "synonyms": "flee, escape, bolt"
   },
   {
     "id": 47,
     "word": "accede",
-    "definition": "(obsolete) to approach, to arrive, to come forward",
+    "definition": "assent or agree to a demand, request, or treaty",
     "wordtype": "verb",
-    "synonyms": "agree to, consent to, accept"
+    "synonyms": "agree, consent, accept"
   },
   {
     "id": 50,
@@ -284,7 +291,7 @@ var words = [
     "word": "animus",
     "definition": "the basic impulses and instincts which govern one's actions",
     "wordtype": "noun",
-    "synonyms": "temper, spirit, mind, impulse"
+    "synonyms": "temper, spirit, mind"
   },
 
   {
@@ -439,7 +446,7 @@ var words = [
     "word": "attenuate",
     "definition": "to reduce in size, force, value, amount, or degree",
     "wordtype": "verb",
-    "synonyms": "weakened, reduced, lessened, decreased"
+    "synonyms": "weakened, reduced, lessened"
   },
   {
     "id": 489,
@@ -451,7 +458,7 @@ var words = [
   {
     "id": 497,
     "word": "auriferous",
-    "definition": "containing or producing gold, gold-bearing",
+    "definition": "containing or producing gold",
     "wordtype": "adjective",
     "synonyms": "metallic, metal, gold-bearing"
   },
@@ -467,21 +474,21 @@ var words = [
     "word": "auspice",
     "definition": "patronage or protection",
     "wordtype": "noun",
-    "synonyms": "bankrolling, endowment, financing, funding"
+    "synonyms": "bankrolling, endowment, financing"
   },
   {
     "id": 501,
     "word": "austere",
     "definition": "severe or strict in manner, attitude, or appearance",
     "wordtype": "adjective",
-    "synonyms": "severe, stern, strict, harsh, steely"
+    "synonyms": "severe, stern, strict"
   },
   {
     "id": 514,
     "word": "avarice",
     "definition": "greediness over wealth, covetousness",
     "wordtype": "noun",
-    "synonyms": "greed, greediness, acquisitiveness, cupidity"
+    "synonyms": "greed, greediness, acquisitiveness"
   },
   {
     "id": 523,
@@ -615,6 +622,13 @@ var words = [
     "definition": "happy or spriteful, carefree",
     "wordtype": "adjective",
     "synonyms": "festive, gay, gleeful"
+  },
+  {
+    "id": 673,
+    "word": "bombastic",
+    "definition": "High-sounding but with little meaning",
+    "wordtype": "adjective",
+    "synonyms": "pompous, blustering, turgid"
   },
   {
     "id": 754,
@@ -802,7 +816,7 @@ var words = [
   {
     "id": 902,
     "word": "chary",
-    "definition": "cautious, wary",
+    "definition": "cautiously or suspiciously reluctant to do something",
     "wordtype": "adjective",
     "synonyms": "wary, cautious, circumspect"
   },
@@ -899,6 +913,13 @@ var words = [
   },
   {
     "id": 971,
+    "word": "coda",
+    "definition": "a concluding event, remark or section",
+    "wordtype": "adjective",
+    "synonyms": "ending, finale"
+  },
+  {
+    "id": 971,
     "word": "cogent",
     "definition": "(of an argument or case) clear, logical, and convincing",
     "wordtype": "adjective",
@@ -952,6 +973,13 @@ var words = [
     "definition": "a coming together of people or things; concourse",
     "wordtype": "noun",
     "synonyms": "convergence, meeting, junction"
+  },
+  {
+    "id": 1104,
+    "word": "confound",
+    "definition": "prove (a theory, expectation, or prediction) wrong",
+    "wordtype": "verb",
+    "synonyms": "contradict, counter, go against"
   },
   {
     "id": 1115,
@@ -1049,7 +1077,7 @@ var words = [
     "word": "contravene",
     "definition": "to act contrary to an order, or fail to conform",
     "wordtype": "verb",
-    "synonyms": "break, breach, violate, infringe"
+    "synonyms": "break, breach, violate"
   },
   {
     "id": 1198,
@@ -1070,7 +1098,7 @@ var words = [
     "word": "contumacious",
     "definition": "stubbornly or willfully disobedient to authority",
     "wordtype": "adjective",
-    "synonyms": "balky, contrary, defiant, disobedient"
+    "synonyms": "balky, contrary, defiant"
   },
   {
     "id": 1210,
@@ -1084,14 +1112,14 @@ var words = [
     "word": "corporal",
     "definition": "of the human body, physical",
     "wordtype": "adjective",
-    "synonyms": "animal, bodily, carnal, corporeal, fleshly"
+    "synonyms": "animal, bodily, fleshly"
   },
   {
     "id": 1250,
     "word": "corpulent",
     "definition": "large in body, fat, overweight",
     "wordtype": "adjective",
-    "synonyms": "fat, obese, overweight, plump"
+    "synonyms": "fat, obese, overweight"
   },
   {
     "id": 1272,
@@ -1105,14 +1133,14 @@ var words = [
     "word": "coterie",
     "definition": "a circle of people who associate with one another",
     "wordtype": "noun",
-    "synonyms": "clique, set, circle, inner circle, crowd"
+    "synonyms": "clique, set, inner circle"
   },
   {
     "id": 1274,
     "word": "countenance",
     "definition": "admit as acceptable or possible",
     "wordtype": "noun",
-    "synonyms": "tolerate, permit, allow, agree to"
+    "synonyms": "tolerate, permit, allow"
   },
   {
     "id": 1289,
@@ -1246,14 +1274,21 @@ var words = [
     "word": "deft",
     "definition": "quick and neat in action, skillful",
     "wordtype": "adjective",
-    "synonyms": "skillful, adept, adroit, dexterous"
+    "synonyms": "skillful, adept, adroit"
+  },
+  {
+    "id": 1451,
+    "word": "deign",
+    "definition": "do something that one considers to be beneath one's dignity",
+    "wordtype": "verb",
+    "synonyms": " condescend, stoop"
   },
   {
     "id": 1451,
     "word": "deify",
     "definition": "to make a god of (something or someone)",
     "wordtype": "verb",
-    "synonyms": "worship, revere, venerate, reverence"
+    "synonyms": "worship, revere, venerate"
   },
   {
     "id": 1460,
@@ -1370,9 +1405,9 @@ var words = [
   {
     "id": 1597,
     "word": "diaphanous",
-    "definition": "light, delicate, and translucent",
+    "definition": "characterized by such fineness of texture as to permit seeing through",
     "wordtype": "adjective",
-    "synonyms": "sheer, fine, delicate, light, thin"
+    "synonyms": "sheer, fine, delicate"
   },
   {
     "id": 1599,
@@ -1506,6 +1541,13 @@ var words = [
     "definition": "to squeeze, press, to constrain, oppress",
     "wordtype": "verb",
     "synonyms": "repossess, reclaim"
+  },
+  {
+    "id": 1805,
+    "word": "docile",
+    "definition": "ready to accept control or instruction",
+    "wordtype": "verb",
+    "synonyms": "compliant, obedient, pliant"
   },
   {
     "id": 1805,
@@ -2152,6 +2194,13 @@ var words = [
     "synonyms": "simplistic, superficial"
   },
   {
+    "id": 2256,
+    "word": "fallow",
+    "definition": "inactive",
+    "wordtype": "adjective",
+    "synonyms": "dormant, quiet, slack"
+  },
+  {
     "id": 2277,
     "word": "farcical",
     "definition": "of or resembling a farce, especially because of absurd or ridiculous aspects",
@@ -2241,13 +2290,6 @@ var words = [
     "definition": "having an offensive odor, stinking",
     "wordtype": "adjective",
     "synonyms": "stinking, smelly, foul-smelling"
-  },
-  {
-    "id": 2318,
-    "word": "fetter",
-    "definition": "to shackle or bind up with fetters",
-    "wordtype": "verb",
-    "synonyms": "shackles, manacles, handcuffs"
   },
   {
     "id": 2323,
@@ -3645,7 +3687,7 @@ var words = [
   {
     "id": 3538,
     "word": "magniloquent",
-    "definition": "speaking pompously, using swelling discourse, bombastic",
+    "definition": "speaking pompously, using swelling discourse",
     "wordtype": "adjective",
     "synonyms": "bombastic, pompous"
   },
@@ -5353,7 +5395,7 @@ var words = [
   {
     "id": 5168,
     "word": "sidereal",
-    "definition": "of or with respect to the distant stars (i.e., the constellations or fixed stars, not the sun or planets)",
+    "definition": "of or with respect to the distant stars",
     "wordtype": "adjective",
     "synonyms": "astral, relating to the stars"
   },
@@ -6410,7 +6452,7 @@ var words = [
   {
     "id": 5748,
     "word": "untenable",
-    "definition": "(especially of a position or view) not able to be maintained or defended against attack or objection",
+    "definition": "not able to be maintained or defended against attack or objection",
     "wordtype": "adjective",
     "synonyms": "indefensible, insupportable, unsustainable"
   },
@@ -6552,54 +6594,40 @@ var words = [
     "word": "veer",
     "definition": "to change from one course or direction to another",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "turn, swerve, curv"
   },
   {
     "id": 5816,
     "word": "vehemence",
-    "definition": "an intense concentration, force or power",
+    "definition": "the display of strong feeling or passion",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5818,
-    "word": "veiled",
-    "definition": "covered or concealed by a veil",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "passion, force"
   },
   {
     "id": 5821,
     "word": "venal",
-    "definition": "willing to sell one's influence, in return for a bribe",
+    "definition": "showing or motivated by susceptibility to bribery",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5822,
-    "word": "vendetta",
-    "definition": "any prolonged and bitter feud, rivalry or contention",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "corrupt, corruptible, bribable"
   },
   {
     "id": 5823,
     "word": "vendible",
     "definition": "able to be bought, sold, or traded",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "saleable, marketable"
   },
   {
     "id": 5824,
     "word": "vendition",
     "definition": "the act of vending or selling, sale",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "auction, business"
   },
   {
     "id": 5826,
     "word": "veneer",
-    "definition": "a thin layer of wood",
+    "definition": "an attractive appearance that covers or disguises someone or something's true nature or feelings",
     "wordtype": "noun",
     "synonyms": ""
   },
@@ -6608,328 +6636,258 @@ var words = [
     "word": "venerable",
     "definition": "commanding respect because of great age or dignity",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "facade, front"
   },
   {
     "id": 5831,
     "word": "venial",
     "definition": "able to be forgiven or pardoned",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "forgivable, pardonable, excusable,"
   },
   {
     "id": 5838,
     "word": "venturesome",
-    "definition": "bold",
+    "definition": "willing to take risks or embark on difficult or unusual courses of action",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "bold, brave"
   },
   {
     "id": 5840,
     "word": "veracity",
     "definition": "habitual observance of truth in speech",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "honest, truth, accuracy"
   },
   {
     "id": 5843,
     "word": "verbose",
     "definition": "characterised by the use of many or too many words",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "wordy, loquacious"
   },
   {
     "id": 5844,
     "word": "verbosity",
-    "definition": "superfluity of words",
+    "definition": "the quality of using more words than needed",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "loquaciousness, long-winded"
   },
   {
     "id": 5845,
     "word": "verdant",
     "definition": "covered with growing plants or moss",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "green, leafy, grassy"
   },
   {
     "id": 5848,
     "word": "verisimilitude",
     "definition": "the appearance or semblance of truth",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "realism, believability"
   },
   {
     "id": 5850,
     "word": "verity",
-    "definition": "truth, fact or reality",
+    "definition": "a true principle or belief, especially one of fundamental importance",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "truth, fact"
   },
   {
     "id": 5853,
     "word": "vernal",
     "definition": "of or pertaining to spring",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5856,
-    "word": "vertigo",
-    "definition": "a dizzying sensation of tilting within stable surroundings",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "young, spring, green"
   },
   {
     "id": 5857,
     "word": "vespertine",
     "definition": "occurring in or related to the evening",
     "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5860,
-    "word": "vestment",
-    "definition": "a garment, especially an outer garment",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "twilight, nocturnal"
   },
   {
     "id": 5863,
     "word": "vexation",
     "definition": "the state of being provoked to slight annoyance or distress",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "annoyance, irritation, exasperation"
   },
   {
     "id": 5868,
     "word": "vicissitude",
     "definition": "a change or variation in the course of something",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "change, alteration, shift"
   },
   {
     "id": 5870,
     "word": "vie",
-    "definition": "to contend for superiority",
+    "definition": "compete eagerly with someone in order to do or achieve something",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5871,
-    "word": "vigilant",
-    "definition": "watchful, especially for danger or disorder, alert, wary",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5873,
-    "word": "vigour",
-    "definition": "energy: forceful exertion",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "compete, contend, contest"
   },
   {
     "id": 5875,
     "word": "vilify",
     "definition": "to say defamatory things about someone or something",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5876,
-    "word": "vincible",
-    "definition": "capable of being defeated or overcome",
-    "wordtype": "adjective",
-    "synonyms": ""
-  },
-  {
-    "id": 5883,
-    "word": "violation",
-    "definition": "a breach of a law, rule or promise",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "disparage, denigrate, defame"
   },
   {
     "id": 5903,
     "word": "vitiate",
     "definition": "to impair the quality of",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "abase, bastardize, canker"
   },
   {
     "id": 5904,
     "word": "vitriol",
     "definition": "something highly caustic or severe in effect, as criticism",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "harshness, hostility"
   },
   {
     "id": 5907,
     "word": "vituperate",
     "definition": "to criticize in a harsh or abusive manner",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "scold, revile, upbraid"
   },
   {
     "id": 5914,
     "word": "vociferate",
     "definition": "to speak or cry out loudly",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "bawl, call, cry"
   },
   {
     "id": 5915,
     "word": "vociferous",
-    "definition": "crying out noisily",
+    "definition": "conspicuously and offensively loud",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "blatant, noisy, clamorous"
   },
   {
     "id": 5917,
     "word": "volant",
     "definition": "having extended wings as if flying",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "aerial, soaring"
   },
   {
     "id": 5923,
     "word": "voracious",
     "definition": "craving or consuming large quantities of food",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "insatiable, unquenchable"
   },
   {
     "id": 5926,
     "word": "votive",
     "definition": "dedicated or given in fulfillment of a vow or pledge",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "dedicated, consecrate"
   },
   {
     "id": 5937,
     "word": "wanton",
-    "definition": "deliberate and without motive or provocation",
+    "definition": "cruel or violent deliberate action without motive or provocation",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "deliberate, willful, malicious"
   },
   {
     "id": 5944,
     "word": "wastrel",
     "definition": "one who wastes time or resources extravagantly",
     "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5945,
-    "word": "wavelet",
-    "definition": "a small wave, ripple",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5948,
-    "word": "weal",
-    "definition": "well-being, prosperity or happiness",
-    "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "idler, vagrant"
   },
   {
     "id": 5957,
     "word": "whet",
-    "definition": "to sharpen by grinding or friction",
+    "definition": "to increase someone's interest in and wish for something, usually by giving them a small experience of it",
     "wordtype": "verb",
-    "synonyms": ""
-  },
-  {
-    "id": 5958,
-    "word": "whim",
-    "definition": "a fanciful impulse, or whimsical idea",
-    "wordtype": "noun",
-    "synonyms": ""
-  },
-  {
-    "id": 5959,
-    "word": "whimsical",
-    "definition": "given to whimsy or fanciful notions",
-    "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "stimulate, excite, rouse"
   },
   {
     "id": 5963,
     "word": "wile",
-    "definition": "a trick, artifice or stratagem meant to fool, trap or entice",
+    "definition": "devious or cunning stratagems employed in manipulating or persuading someone to do what one wants",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "trick, ploy, scheme"
   },
   {
     "id": 5967,
     "word": "winsome",
-    "definition": "sweetly or innocently charming",
+    "definition": "attractive or appealing in appearance or character",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "sweet, charming"
   },
   {
     "id": 5977,
     "word": "wizened",
-    "definition": "withered, shriveled",
+    "definition": "shriveled or wrinkled with age",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "wrinkled, lined"
   },
   {
     "id": 5983,
     "word": "wrest",
-    "definition": "to pull or twist violently",
+    "definition": "forcibly pull (something) from a person's grasp",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "wrench, snatch, seize"
   },
   {
     "id": 5985,
     "word": "writhe",
-    "definition": "to twist or turn so as to distort, to wring",
+    "definition": "make continual twisting, squirming movements or contortions of the body",
     "wordtype": "verb",
-    "synonyms": ""
+    "synonyms": "squirm, wriggle, thrash"
   },
   {
     "id": 5986,
     "word": "wry",
-    "definition": "produced by a lopsidedness of the facial features",
+    "definition": "using or expressing dry, especially mocking, humor",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "ironic, sardonic, satirical"
   },
   {
     "id": 5988,
     "word": "yearling",
     "definition": "an animal that is between one and two years old",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "tiddler, nursling"
   },
   {
     "id": 5992,
     "word": "zany",
     "definition": "ludicrously or incongruously comical",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "eccentric, peculiar, odd"
   },
   {
     "id": 5994,
     "word": "zealot",
-    "definition": "a fanatic",
+    "definition": "a person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "fanatic, enthusiast, extremist"
   },
   {
     "id": 5997,
     "word": "zenith",
-    "definition": "a highest point or state",
+    "definition": "the time at which something is most powerful or successful",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "top, acme, peak"
   },
   {
     "id": 5998,
     "word": "zephyr",
     "definition": "a gentle, mild breeze",
     "wordtype": "noun",
-    "synonyms": ""
+    "synonyms": "air, breath, breeze"
   }
 ]

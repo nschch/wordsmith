@@ -7,7 +7,7 @@
 	   "default_icon": "tab-icon.png",
 	   "default_title": "Have a good day"
 	},
-  "description": "Learn new words every day as you browse! Build your vocabulary each time you open a new tab in Chrome.",
+  "description": "New tab, new word. Download Wordsmith, a Chrome extension to learn new words every time you open a new tab.",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
