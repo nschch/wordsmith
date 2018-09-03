@@ -4,19 +4,18 @@
   "author": "Natalie Schoch",
   "manifest_version": 2,
 	"browser_action": {
-	   "default_icon": "tab-icon.png",
 	   "default_title": "Have a good day"
 	},
   "description": "New tab, new word. Download Wordsmith, a Chrome extension to learn new words every time you open a new tab.",
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
-  },
 	"chrome_url_overrides": {
 	  "newtab": "newtab.html"
 	},
-	"permissions": ["activeTab"],
-	"browser_action": {
-  	"default_popup": "popup.html"
-  }
+  "content_scripts": [
+     {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["js/jquery.min.js","js/scripts.js"]
+     }
+   ]
 }
