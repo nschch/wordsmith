@@ -177,7 +177,7 @@ var words = [
   {
     "id": 92,
     "word": "acrid",
-    "definition": "sharp and harshf or bitter and not to the taste",
+    "definition": "sharp and harsh or bitter and not to the taste",
     "wordtype": "adjective",
     "synonyms": "pungent, bitter, sharp"
   },
@@ -568,13 +568,6 @@ var words = [
     "synonyms": "blessing, good fortune, benediction"
   },
   {
-    "id": 622,
-    "word": "smear or cover with a greasy or sticky substance",
-    "definition": "to smear over, sully",
-    "wordtype": "verb",
-    "synonyms": "befoul, cloud, denigrate, blacken"
-  },
-  {
     "id": 626,
     "word": "bestrew",
     "definition": "to strew or scatter about, throw or drop here and there",
@@ -860,7 +853,7 @@ var words = [
     "word": "circumspect",
     "definition": "wary and unwilling to take risks",
     "wordtype": "adjective",
-    "synonyms": "cautious, wary, careful, chary"
+    "synonyms": "cautious, wary, careful"
   },
   {
     "id": 938,
@@ -1244,7 +1237,7 @@ var words = [
   {
     "id": 1407,
     "word": "declamatory",
-    "definition": "bombastic, ostentatiously lofty in style",
+    "definition": "vehement or impassioned in expression",
     "wordtype": "adjective",
     "synonyms": "address, harangue, oration"
   },
@@ -2672,7 +2665,7 @@ var words = [
   {
     "id": 2649,
     "word": "gyrate",
-    "definition": "to revolve round a central point, to revolve",
+    "definition": "to revolve round a central point",
     "wordtype": "verb",
     "synonyms": "rotate, wheel, revolve"
   },
@@ -2709,7 +2702,7 @@ var words = [
     "word": "hale",
     "definition": "free from disease or infirmity, robust, vigorous",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "healthy, fit, well"
   },
   {
     "id": 2668,
