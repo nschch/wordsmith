@@ -1,6 +1,6 @@
 {
   "name": "Wordsmith",
-  "version": "1.1",
+  "version": "1.2",
   "author": "Natalie Schoch",
   "manifest_version": 2,
 	"browser_action": {

@@ -28,7 +28,7 @@ function backgroundColorDelta (firstElm) {
 
 if (localStorage.getItem('localColorArr') === null) {
 	//set array first time if it doesn't exist
-	var colorsArr = ['#5F0B0D', '#5E2136', '#4F325C', '#214187', '#253764', '#1F2942', '#0F151F', '#132521', '#16321F', '#183319', '#362D16', '#4B2312', '#1B383D', '#1E3C62', '#214186', '#362F5E', '#4A1D35'];
+	var colorsArr = ['#5F0B0D', '#5E2136', '#4F325C', '#214187', '#253764', '#1F2942', '#0F151F', '#132521', '#16321F', '#183319', '#362D16', '#4B2312'];
 	localStorage.setItem('localColorArr', JSON.stringify(colorsArr));
 	var localColorArr = JSON.parse(localStorage.getItem('localColorArr'));
 } else {
@@ -38,4 +38,3 @@ if (localStorage.getItem('localColorArr') === null) {
 	// set setLocalStorage = modifiedArray;
 	localStorage.setItem('localColorArr', JSON.stringify(modifiedColors));
 }
-'#5E2136', '#4F325C', '#214187', '#253764', '#1F2942', '#0F151F', '#132521', '#16321F', '#183319', '#362D16',
