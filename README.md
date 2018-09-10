@@ -1,6 +1,6 @@
 # Wordsmith
 
-Install Wordsmith at the [Chrome Web Store](https://chrome.google.com/webstore/detail/gnpnpeephndoppbobdbpigepfdklacbp/publish-accepted?authuser=0&hl=en)
+Install [Wordsmith](https://chrome.google.com/webstore/detail/gnpnpeephndoppbobdbpigepfdklacbp/publish-accepted?authuser=0&hl=en) at the Chrome Web Store
 
 New tab, new word. Download Wordsmith, a Chrome extension to learn new words every time you open a new tab.
 Wordsmith is a chrome extension that shows you new vocabulary words with each new tab. The elegant and simple design will help you learn new words with out distracting you from your browsing.
