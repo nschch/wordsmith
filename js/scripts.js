@@ -11,6 +11,7 @@ $( '.js-type' ).html( $wordType );
 $( '.js-definition' ).html( $wordDefinition);
 $( '.js-synonyms' ).html( $wordSynonyms );
 $( '.js-dict-link' ).attr('href', 'https://www.merriam-webster.com/dictionary/' + $wordName );
+$( 'title' ).html( '&quot;' + $wordName + '&quot; - Wordsmith');
 
 
 // modify array
