@@ -1825,7 +1825,7 @@ var words = [
   {
     "id": 2073,
     "word": "epode",
-    "definition": "a lyric poem in which a short verse follws a long one",
+    "definition": "a lyric poem in which a short verse follows a long one",
     "wordtype": "noun",
     "synonyms": "ballad, lyrics, composition"
   },
