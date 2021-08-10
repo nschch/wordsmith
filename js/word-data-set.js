@@ -3094,7 +3094,7 @@ var words = [
     "word": "inexpedient",
     "definition": "not tending to the end desired, inadvisable, unfit, improper",
     "wordtype": "adjective",
-    "synonyms": ""
+    "synonyms": "counterproductive, feckless, hamstrung"
   },
   {
     "id": 3061,
